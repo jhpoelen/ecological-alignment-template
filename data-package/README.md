@@ -25,7 +25,7 @@ We got the interactions from
 
 https://depot.globalbioticinteractions.org/reviews/globalbioticinteractions/preston2012/indexed-interactions.tsv.gz
 
-and then, only selected the "targetTaxonName" and "sourceTaxonName" columns
+and then, only selected the "sourceTaxonName", "interactionTypeName", and "targetTaxonName" columns
 
 An example of how to create this network.csv is shown below using "bash" on a linux terminal. Similar workflows can be created using R, python, excel, whatever suits. 
 
@@ -38,7 +38,7 @@ curl "https://depot.globalbioticinteractions.org/reviews/globalbioticinteraction
  > network.csv
 ```
 
-with first 10 rows being:
+See [network.csv](./network.csv) for results or below for an example of the first 10 rows.
 
 | subject | interactionTypeName | object |
 | --- | --- | --- |
