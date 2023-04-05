@@ -1,5 +1,7 @@
 # Ecological Network Generator 
 
+:warning: work in progress :warning:
+
 Creating ecological networks is a time intensive task. This template is meant to help facilitate the creation of custom network by combining existing datasets with known taxonomic resources.
 
 A working copy of this document can be found at:
