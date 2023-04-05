@@ -1,4 +1,4 @@
-# Preston data package
+# Data Package
 
 This is a data package description. See also https://docs.google.com/document/d/1rlHQ4JdwoBIS2YNCjQga1OdeMc7jLvoxs0xC3Ask7eE/edit for context. 
 
