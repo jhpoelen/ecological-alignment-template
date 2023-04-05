@@ -2,7 +2,7 @@
 
 This is a data package description. See also https://docs.google.com/document/d/1rlHQ4JdwoBIS2YNCjQga1OdeMc7jLvoxs0xC3Ask7eE/edit for context. 
 
-The sources used are Preston et al. 2012. We used the NCBI tAxonomy version XYZ to align the names, and selected parasites (insert taxononic range) and hosts (insert taxonomic range) from Illinois and Wisconsin. 
+The sources used are [Preston et al. 2012](https://doi.org/10.1890/11-2194.1) (see also [GloBI's review of Preston et al. 2012](https://depot.globalbioticinteractions.org/reviews/globalbioticinteractions/preston2012/README.txt)). We used the NCBI Taxonomy version XYZ to align the names, and selected parasites (insert taxononic range) and hosts (insert taxonomic range) from Illinois and Wisconsin. 
 
 To help avoid taxonomic misaligment, we adjusted the taxonomic resolution of the parasite names to be (XYZ, genus level). 
 
