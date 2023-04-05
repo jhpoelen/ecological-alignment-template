@@ -37,3 +37,17 @@ curl "https://depot.globalbioticinteractions.org/reviews/globalbioticinteraction
  | mlr --csv rename sourceTaxonName,subject,targetTaxonName,object\
  > network.csv
 ```
+
+with first 10 rows being:
+
+| subject | interactionTypeName | object |
+| --- | --- | --- |
+| meiofauna | eats | detritus |
+| Bacteria | eats | detritus |
+| Dero | eats | detritus |
+| Tubificidae | eats | detritus |
+| Physa | eats | detritus |
+| Helisoma | eats | detritus |
+| Hyalella | eats | detritus |
+| Simocephalus | eats | detritus |
+
