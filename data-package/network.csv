@@ -1,0 +1,1906 @@
+subject,interactionTypeName,object
+meiofauna,eats,detritus
+Bacteria,eats,detritus
+Dero,eats,detritus
+Tubificidae,eats,detritus
+Physa,eats,detritus
+Helisoma,eats,detritus
+Hyalella,eats,detritus
+Simocephalus,eats,detritus
+Cyzicus californicus,eats,detritus
+Callibaetis,eats,detritus
+Hydrophilus,eats,detritus
+Tropisternus,eats,detritus
+Hesperocorixa,eats,detritus
+Hesperocorixa,eats,detritus
+Chironomidae,eats,detritus
+Ceratopogonidae,eats,detritus
+Ephydridae,eats,detritus
+Anaxyrus boreas,eats,detritus
+Pseudiacris regilla,eats,detritus
+Rana draytonii,eats,detritus
+meiofauna,eats,carrion
+Bacteria,eats,carrion
+Dero,eats,carrion
+Erpobdella,eats,carrion
+Hydrophilus,eats,carrion
+Tropisternus,eats,carrion
+Gerridae,eats,carrion
+Gerridae,eats,carrion
+Hesperocorixa,eats,carrion
+Hesperocorixa,eats,carrion
+Chironomidae,eats,carrion
+Ephydridae,eats,carrion
+Anaxyrus boreas,eats,carrion
+Pseudiacris regilla,eats,carrion
+Rana draytonii,eats,carrion
+Spermophilus beecheyi,eats,carrion
+Canis latrans,eats,carrion
+zooplankton,preysOn,phytoplankton
+Diaptomidae,preysOn,phytoplankton
+Simocephalus,preysOn,phytoplankton
+Cyzicus californicus,preysOn,phytoplankton
+Anaxyrus boreas,preysOn,phytoplankton
+Pseudiacris regilla,preysOn,phytoplankton
+Rana draytonii,preysOn,phytoplankton
+zooplankton,preysOn,benthic microalgae/periphyton
+meiofauna,preysOn,benthic microalgae/periphyton
+Dero,preysOn,benthic microalgae/periphyton
+Physa,preysOn,benthic microalgae/periphyton
+Helisoma,preysOn,benthic microalgae/periphyton
+Hyalella,preysOn,benthic microalgae/periphyton
+Callibaetis,preysOn,benthic microalgae/periphyton
+Haliplus,preysOn,benthic microalgae/periphyton
+Haliplus,preysOn,benthic microalgae/periphyton
+Hydrophilus,preysOn,benthic microalgae/periphyton
+Tropisternus,preysOn,benthic microalgae/periphyton
+Chironomidae,preysOn,benthic microalgae/periphyton
+Ceratopogonidae,preysOn,benthic microalgae/periphyton
+Ephydridae,preysOn,benthic microalgae/periphyton
+Anaxyrus boreas,preysOn,benthic microalgae/periphyton
+Pseudiacris regilla,preysOn,benthic microalgae/periphyton
+Rana draytonii,preysOn,benthic microalgae/periphyton
+Fulica americana,preysOn,benthic microalgae/periphyton
+Physa,preysOn,Plantae
+Helisoma,preysOn,Plantae
+Callibaetis,preysOn,Plantae
+Haliplus,preysOn,Plantae
+Haliplus,preysOn,Plantae
+Hydrophilus,preysOn,Plantae
+Tropisternus,preysOn,Plantae
+Ephydridae,preysOn,Plantae
+Tachycineta bicolor,preysOn,Plantae
+Agelaius phoeniceus,preysOn,Plantae
+Fulica americana,preysOn,Plantae
+Canis latrans,preysOn,Plantae
+zooplankton,preysOn,zooplankton
+meiofauna,preysOn,zooplankton
+Macrocyclops,preysOn,zooplankton
+Diaptomidae,preysOn,zooplankton
+Simocephalus,preysOn,zooplankton
+Cyzicus californicus,preysOn,zooplankton
+Tropisternus,preysOn,zooplankton
+Notonecta,preysOn,zooplankton
+Notonecta,preysOn,zooplankton
+Tramea,preysOn,zooplankton
+Coenagrion,preysOn,zooplankton
+Lestes,preysOn,zooplankton
+Anax junius,preysOn,zooplankton
+Taricha torosa,preysOn,zooplankton
+Taricha torosa,preysOn,zooplankton
+Fulica americana,preysOn,zooplankton
+Halipegus,parasiteOf,zooplankton
+zooplankton,preysOn,meiofauna
+meiofauna,preysOn,meiofauna
+Dero,preysOn,meiofauna
+Erpobdella,preysOn,meiofauna
+Macrocyclops,preysOn,meiofauna
+Hydrophilus,preysOn,meiofauna
+Hydrophilus,preysOn,meiofauna
+Tropisternus,preysOn,meiofauna
+Tropisternus,preysOn,meiofauna
+Chironomidae,preysOn,meiofauna
+Ceratopogonidae,preysOn,meiofauna
+Tramea,preysOn,meiofauna
+Coenagrion,preysOn,meiofauna
+Lestes,preysOn,meiofauna
+Anax junius,preysOn,meiofauna
+Taricha torosa,preysOn,meiofauna
+Taricha torosa,preysOn,meiofauna
+Fulica americana,preysOn,meiofauna
+zooplankton,preysOn,Bacteria
+meiofauna,preysOn,Bacteria
+Dero,preysOn,Bacteria
+Tubificidae,preysOn,Bacteria
+Physa,preysOn,Bacteria
+Helisoma,preysOn,Bacteria
+Hyalella,preysOn,Bacteria
+Simocephalus,preysOn,Bacteria
+Cyzicus californicus,preysOn,Bacteria
+Chironomidae,preysOn,Bacteria
+Ceratopogonidae,preysOn,Bacteria
+Ephydridae,preysOn,Bacteria
+Anaxyrus boreas,preysOn,Bacteria
+Pseudiacris regilla,preysOn,Bacteria
+Rana draytonii,preysOn,Bacteria
+meiofauna,preysOn,Dero
+Erpobdella,preysOn,Dero
+Macrocyclops,preysOn,Dero
+Hydrophilus,preysOn,Dero
+Hydrophilus,preysOn,Dero
+Tropisternus,preysOn,Dero
+Tramea,preysOn,Dero
+Coenagrion,preysOn,Dero
+Lestes,preysOn,Dero
+Anax junius,preysOn,Dero
+Taricha torosa,preysOn,Dero
+Taricha torosa,preysOn,Dero
+Rana draytonii,preysOn,Dero
+Fulica americana,preysOn,Dero
+meiofauna,preysOn,Tubificidae
+Erpobdella,preysOn,Tubificidae
+Macrocyclops,preysOn,Tubificidae
+Hydrophilus,preysOn,Tubificidae
+Hydrophilus,preysOn,Tubificidae
+Tropisternus,preysOn,Tubificidae
+Tramea,preysOn,Tubificidae
+Coenagrion,preysOn,Tubificidae
+Lestes,preysOn,Tubificidae
+Anax junius,preysOn,Tubificidae
+Taricha torosa,preysOn,Tubificidae
+Taricha torosa,preysOn,Tubificidae
+Rana draytonii,preysOn,Tubificidae
+Fulica americana,preysOn,Tubificidae
+Erpobdella,preysOn,Chaetogaster
+Tramea,preysOn,Chaetogaster
+Coenagrion,preysOn,Chaetogaster
+Lestes,preysOn,Chaetogaster
+Anax junius,preysOn,Chaetogaster
+Taricha torosa,preysOn,Chaetogaster
+Taricha torosa,preysOn,Chaetogaster
+Rana draytonii,preysOn,Chaetogaster
+Fulica americana,preysOn,Chaetogaster
+meiofauna,preysOn,Erpobdella
+Hydrophilus,preysOn,Erpobdella
+Hydrophilus,preysOn,Erpobdella
+Tropisternus,preysOn,Erpobdella
+Tramea,preysOn,Erpobdella
+Coenagrion,preysOn,Erpobdella
+Lestes,preysOn,Erpobdella
+Anax junius,preysOn,Erpobdella
+Taricha torosa,preysOn,Erpobdella
+Taricha torosa,preysOn,Erpobdella
+Rana draytonii,preysOn,Erpobdella
+Thamnophis atratus,preysOn,Erpobdella
+Fulica americana,preysOn,Erpobdella
+Hydrophilus,preysOn,Physa
+Hydrophilus,preysOn,Physa
+Tropisternus,preysOn,Physa
+Letherocerus americanus,preysOn,Physa
+Letherocerus americanus,preysOn,Physa
+Belostoma,preysOn,Physa
+Belostoma,preysOn,Physa
+Anax junius,preysOn,Physa
+Taricha torosa,preysOn,Physa
+Taricha torosa,preysOn,Physa
+Anaxyrus boreas,preysOn,Physa
+Rana draytonii,preysOn,Physa
+Fulica americana,preysOn,Physa
+Echinostoma trivolvis,parasiteOf,Physa
+Echinostoma,parasiteOf,Physa
+Echinostoma,parasiteOf,Physa
+Chaetogaster,symbiontOf,Helisoma
+Hydrophilus,preysOn,Helisoma
+Hydrophilus,preysOn,Helisoma
+Tropisternus,preysOn,Helisoma
+Letherocerus americanus,preysOn,Helisoma
+Letherocerus americanus,preysOn,Helisoma
+Belostoma,preysOn,Helisoma
+Belostoma,preysOn,Helisoma
+Tramea,preysOn,Helisoma
+Anax junius,preysOn,Helisoma
+Taricha torosa,preysOn,Helisoma
+Taricha torosa,preysOn,Helisoma
+Anaxyrus boreas,preysOn,Helisoma
+Rana draytonii,preysOn,Helisoma
+Fulica americana,preysOn,Helisoma
+Daubaylia,parasiteOf,Helisoma
+Ribeiroia ondatrae,parasiteOf,Helisoma
+Megalodiscus,parasiteOf,Helisoma
+Echinostoma trivolvis,parasiteOf,Helisoma
+Echinostoma trivolvis,parasiteOf,Helisoma
+Echinostoma,parasiteOf,Helisoma
+Halipegus,parasiteOf,Helisoma
+Alaria,parasiteOf,Helisoma
+Cephalogonimus americanus,parasiteOf,Helisoma
+Erpobdella,preysOn,Hyalella
+Macrocyclops,preysOn,Hyalella
+Hydrophilus,preysOn,Hyalella
+Hydrophilus,preysOn,Hyalella
+Tropisternus,preysOn,Hyalella
+Notonecta,preysOn,Hyalella
+Notonecta,preysOn,Hyalella
+Hesperocorixa,preysOn,Hyalella
+Hesperocorixa,preysOn,Hyalella
+Letherocerus americanus,preysOn,Hyalella
+Letherocerus americanus,preysOn,Hyalella
+Belostoma,preysOn,Hyalella
+Belostoma,preysOn,Hyalella
+Tramea,preysOn,Hyalella
+Coenagrion,preysOn,Hyalella
+Lestes,preysOn,Hyalella
+Anax junius,preysOn,Hyalella
+Taricha torosa,preysOn,Hyalella
+Taricha torosa,preysOn,Hyalella
+Anaxyrus boreas,preysOn,Hyalella
+Rana draytonii,preysOn,Hyalella
+Fulica americana,preysOn,Hyalella
+Pseudocorynosoma constrictum,parasiteOf,Hyalella
+Pseudocorynosoma constrictum,parasiteOf,Hyalella
+Erpobdella,preysOn,Macrocyclops
+Macrocyclops,preysOn,Macrocyclops
+Hydrophilus,preysOn,Macrocyclops
+Hydrophilus,preysOn,Macrocyclops
+Tropisternus,preysOn,Macrocyclops
+Notonecta,preysOn,Macrocyclops
+Notonecta,preysOn,Macrocyclops
+Hesperocorixa,preysOn,Macrocyclops
+Hesperocorixa,preysOn,Macrocyclops
+Tramea,preysOn,Macrocyclops
+Coenagrion,preysOn,Macrocyclops
+Lestes,preysOn,Macrocyclops
+Anax junius,preysOn,Macrocyclops
+Taricha torosa,preysOn,Macrocyclops
+Taricha torosa,preysOn,Macrocyclops
+Fulica americana,preysOn,Macrocyclops
+Halipegus,parasiteOf,Macrocyclops
+Erpobdella,preysOn,Diaptomidae
+Macrocyclops,preysOn,Diaptomidae
+Hydrophilus,preysOn,Diaptomidae
+Hydrophilus,preysOn,Diaptomidae
+Tropisternus,preysOn,Diaptomidae
+Notonecta,preysOn,Diaptomidae
+Notonecta,preysOn,Diaptomidae
+Hesperocorixa,preysOn,Diaptomidae
+Hesperocorixa,preysOn,Diaptomidae
+Tramea,preysOn,Diaptomidae
+Coenagrion,preysOn,Diaptomidae
+Lestes,preysOn,Diaptomidae
+Anax junius,preysOn,Diaptomidae
+Taricha torosa,preysOn,Diaptomidae
+Taricha torosa,preysOn,Diaptomidae
+Fulica americana,preysOn,Diaptomidae
+Halipegus,parasiteOf,Diaptomidae
+Erpobdella,preysOn,Simocephalus
+Macrocyclops,preysOn,Simocephalus
+Hydrophilus,preysOn,Simocephalus
+Hydrophilus,preysOn,Simocephalus
+Tropisternus,preysOn,Simocephalus
+Notonecta,preysOn,Simocephalus
+Notonecta,preysOn,Simocephalus
+Hesperocorixa,preysOn,Simocephalus
+Hesperocorixa,preysOn,Simocephalus
+Tramea,preysOn,Simocephalus
+Coenagrion,preysOn,Simocephalus
+Lestes,preysOn,Simocephalus
+Anax junius,preysOn,Simocephalus
+Taricha torosa,preysOn,Simocephalus
+Taricha torosa,preysOn,Simocephalus
+Fulica americana,preysOn,Simocephalus
+Macrocyclops,preysOn,Cyzicus californicus
+Hydrophilus,preysOn,Cyzicus californicus
+Hydrophilus,preysOn,Cyzicus californicus
+Tropisternus,preysOn,Cyzicus californicus
+Notonecta,preysOn,Cyzicus californicus
+Notonecta,preysOn,Cyzicus californicus
+Hesperocorixa,preysOn,Cyzicus californicus
+Hesperocorixa,preysOn,Cyzicus californicus
+Tramea,preysOn,Cyzicus californicus
+Coenagrion,preysOn,Cyzicus californicus
+Lestes,preysOn,Cyzicus californicus
+Anax junius,preysOn,Cyzicus californicus
+Taricha torosa,preysOn,Cyzicus californicus
+Taricha torosa,preysOn,Cyzicus californicus
+Rana draytonii,preysOn,Cyzicus californicus
+Fulica americana,preysOn,Cyzicus californicus
+Halipegus,parasiteOf,Cyzicus californicus
+Tramea,preysOn,Callibaetis
+Coenagrion,preysOn,Callibaetis
+Lestes,preysOn,Callibaetis
+Anax junius,preysOn,Callibaetis
+Anaxyrus boreas,preysOn,Callibaetis
+Pseudiacris regilla,preysOn,Callibaetis
+Rana draytonii,preysOn,Callibaetis
+Tachycineta bicolor,preysOn,Callibaetis
+Hirundo rustica,preysOn,Callibaetis
+Agelaius phoeniceus,preysOn,Callibaetis
+Fulica americana,preysOn,Callibaetis
+Arrenurus,parasiteOf,Callibaetis
+Gregarinidae,interactsWith,Callibaetis
+Macrocyclops,preysOn,Callibaetis
+Hydrophilus,preysOn,Callibaetis
+Hydrophilus,preysOn,Callibaetis
+Tropisternus,preysOn,Callibaetis
+Notonecta,preysOn,Callibaetis
+Notonecta,preysOn,Callibaetis
+Gerridae,preysOn,Callibaetis
+Gerridae,preysOn,Callibaetis
+Hesperocorixa,preysOn,Callibaetis
+Hesperocorixa,preysOn,Callibaetis
+Letherocerus americanus,preysOn,Callibaetis
+Letherocerus americanus,preysOn,Callibaetis
+Belostoma,preysOn,Callibaetis
+Belostoma,preysOn,Callibaetis
+Tramea,preysOn,Callibaetis
+Coenagrion,preysOn,Callibaetis
+Lestes,preysOn,Callibaetis
+Anax junius,preysOn,Callibaetis
+Taricha torosa,preysOn,Callibaetis
+Taricha torosa,preysOn,Callibaetis
+Rana draytonii,preysOn,Callibaetis
+Arrenurus,parasiteOf,Callibaetis
+Gregarinidae,interactsWith,Callibaetis
+Hydrophilus,preysOn,Haliplus
+Hydrophilus,preysOn,Haliplus
+Tropisternus,preysOn,Haliplus
+Notonecta,preysOn,Haliplus
+Notonecta,preysOn,Haliplus
+Hesperocorixa,preysOn,Haliplus
+Hesperocorixa,preysOn,Haliplus
+Letherocerus americanus,preysOn,Haliplus
+Letherocerus americanus,preysOn,Haliplus
+Belostoma,preysOn,Haliplus
+Belostoma,preysOn,Haliplus
+Tramea,preysOn,Haliplus
+Coenagrion,preysOn,Haliplus
+Lestes,preysOn,Haliplus
+Anax junius,preysOn,Haliplus
+Taricha torosa,preysOn,Haliplus
+Taricha torosa,preysOn,Haliplus
+Anaxyrus boreas,preysOn,Haliplus
+Pseudiacris regilla,preysOn,Haliplus
+Rana draytonii,preysOn,Haliplus
+Fulica americana,preysOn,Haliplus
+Hydrophilus,preysOn,Haliplus
+Hydrophilus,preysOn,Haliplus
+Tropisternus,preysOn,Haliplus
+Notonecta,preysOn,Haliplus
+Notonecta,preysOn,Haliplus
+Hesperocorixa,preysOn,Haliplus
+Hesperocorixa,preysOn,Haliplus
+Letherocerus americanus,preysOn,Haliplus
+Letherocerus americanus,preysOn,Haliplus
+Belostoma,preysOn,Haliplus
+Belostoma,preysOn,Haliplus
+Tramea,preysOn,Haliplus
+Coenagrion,preysOn,Haliplus
+Lestes,preysOn,Haliplus
+Anax junius,preysOn,Haliplus
+Taricha torosa,preysOn,Haliplus
+Taricha torosa,preysOn,Haliplus
+Anaxyrus boreas,preysOn,Haliplus
+Pseudiacris regilla,preysOn,Haliplus
+Rana draytonii,preysOn,Haliplus
+Fulica americana,preysOn,Haliplus
+Hydrophilus,preysOn,Hydrophilus
+Tropisternus,preysOn,Hydrophilus
+Rana draytonii,preysOn,Hydrophilus
+Fulica americana,preysOn,Hydrophilus
+Hydrophilus,preysOn,Hydrophilus
+Hydrophilus,preysOn,Hydrophilus
+Hesperocorixa,preysOn,Hydrophilus
+Hesperocorixa,preysOn,Hydrophilus
+Letherocerus americanus,preysOn,Hydrophilus
+Letherocerus americanus,preysOn,Hydrophilus
+Belostoma,preysOn,Hydrophilus
+Belostoma,preysOn,Hydrophilus
+Tramea,preysOn,Hydrophilus
+Coenagrion,preysOn,Hydrophilus
+Lestes,preysOn,Hydrophilus
+Anax junius,preysOn,Hydrophilus
+Taricha torosa,preysOn,Hydrophilus
+Taricha torosa,preysOn,Hydrophilus
+Anaxyrus boreas,preysOn,Hydrophilus
+Rana draytonii,preysOn,Hydrophilus
+Fulica americana,preysOn,Hydrophilus
+Ardea herodias,preysOn,Hydrophilus
+Hydrophilus,preysOn,Tropisternus
+Hydrophilus,preysOn,Tropisternus
+Hesperocorixa,preysOn,Tropisternus
+Hesperocorixa,preysOn,Tropisternus
+Letherocerus americanus,preysOn,Tropisternus
+Letherocerus americanus,preysOn,Tropisternus
+Belostoma,preysOn,Tropisternus
+Belostoma,preysOn,Tropisternus
+Tramea,preysOn,Tropisternus
+Coenagrion,preysOn,Tropisternus
+Lestes,preysOn,Tropisternus
+Anax junius,preysOn,Tropisternus
+Taricha torosa,preysOn,Tropisternus
+Taricha torosa,preysOn,Tropisternus
+Anaxyrus boreas,preysOn,Tropisternus
+Pseudiacris regilla,preysOn,Tropisternus
+Rana draytonii,preysOn,Tropisternus
+Fulica americana,preysOn,Tropisternus
+Ardea herodias,preysOn,Tropisternus
+Hydrophilus,preysOn,Tropisternus
+Hydrophilus,preysOn,Tropisternus
+Tropisternus,preysOn,Tropisternus
+Notonecta,preysOn,Tropisternus
+Notonecta,preysOn,Tropisternus
+Hesperocorixa,preysOn,Tropisternus
+Hesperocorixa,preysOn,Tropisternus
+Letherocerus americanus,preysOn,Tropisternus
+Letherocerus americanus,preysOn,Tropisternus
+Belostoma,preysOn,Tropisternus
+Belostoma,preysOn,Tropisternus
+Tramea,preysOn,Tropisternus
+Coenagrion,preysOn,Tropisternus
+Lestes,preysOn,Tropisternus
+Anax junius,preysOn,Tropisternus
+Taricha torosa,preysOn,Tropisternus
+Taricha torosa,preysOn,Tropisternus
+Anaxyrus boreas,preysOn,Tropisternus
+Pseudiacris regilla,preysOn,Tropisternus
+Rana draytonii,preysOn,Tropisternus
+Fulica americana,preysOn,Tropisternus
+Ardea herodias,preysOn,Tropisternus
+Notonecta,preysOn,Notonecta
+Notonecta,preysOn,Notonecta
+Hesperocorixa,preysOn,Notonecta
+Hesperocorixa,preysOn,Notonecta
+Tramea,preysOn,Notonecta
+Tramea,preysOn,Notonecta
+Coenagrion,preysOn,Notonecta
+Lestes,preysOn,Notonecta
+Anax junius,preysOn,Notonecta
+Taricha torosa,preysOn,Notonecta
+Taricha torosa,preysOn,Notonecta
+Anaxyrus boreas,preysOn,Notonecta
+Pseudiacris regilla,preysOn,Notonecta
+Rana draytonii,preysOn,Notonecta
+Tachycineta bicolor,preysOn,Notonecta
+Hirundo rustica,preysOn,Notonecta
+Agelaius phoeniceus,preysOn,Notonecta
+Fulica americana,preysOn,Notonecta
+Arrenurus,parasiteOf,Notonecta
+Notonecta,preysOn,Notonecta
+Notonecta,preysOn,Notonecta
+Hesperocorixa,preysOn,Notonecta
+Hesperocorixa,preysOn,Notonecta
+Tramea,preysOn,Notonecta
+Coenagrion,preysOn,Notonecta
+Lestes,preysOn,Notonecta
+Anax junius,preysOn,Notonecta
+Taricha torosa,preysOn,Notonecta
+Taricha torosa,preysOn,Notonecta
+Anaxyrus boreas,preysOn,Notonecta
+Pseudiacris regilla,preysOn,Notonecta
+Rana draytonii,preysOn,Notonecta
+Tachycineta bicolor,preysOn,Notonecta
+Hirundo rustica,preysOn,Notonecta
+Agelaius phoeniceus,preysOn,Notonecta
+Fulica americana,preysOn,Notonecta
+Arrenurus,parasiteOf,Notonecta
+Notonecta,preysOn,Gerridae
+Notonecta,preysOn,Gerridae
+Gerridae,preysOn,Gerridae
+Gerridae,preysOn,Gerridae
+Tramea,preysOn,Gerridae
+Coenagrion,preysOn,Gerridae
+Lestes,preysOn,Gerridae
+Anax junius,preysOn,Gerridae
+Taricha torosa,preysOn,Gerridae
+Taricha torosa,preysOn,Gerridae
+Anaxyrus boreas,preysOn,Gerridae
+Pseudiacris regilla,preysOn,Gerridae
+Rana draytonii,preysOn,Gerridae
+Tachycineta bicolor,preysOn,Gerridae
+Hirundo rustica,preysOn,Gerridae
+Agelaius phoeniceus,preysOn,Gerridae
+Fulica americana,preysOn,Gerridae
+Arrenurus,parasiteOf,Gerridae
+Notonecta,preysOn,Gerridae
+Notonecta,preysOn,Gerridae
+Gerridae,preysOn,Gerridae
+Gerridae,preysOn,Gerridae
+Tramea,preysOn,Gerridae
+Coenagrion,preysOn,Gerridae
+Lestes,preysOn,Gerridae
+Anax junius,preysOn,Gerridae
+Taricha torosa,preysOn,Gerridae
+Taricha torosa,preysOn,Gerridae
+Anaxyrus boreas,preysOn,Gerridae
+Pseudiacris regilla,preysOn,Gerridae
+Rana draytonii,preysOn,Gerridae
+Tachycineta bicolor,preysOn,Gerridae
+Hirundo rustica,preysOn,Gerridae
+Agelaius phoeniceus,preysOn,Gerridae
+Fulica americana,preysOn,Gerridae
+Arrenurus,parasiteOf,Gerridae
+Notonecta,preysOn,Hesperocorixa
+Notonecta,preysOn,Hesperocorixa
+Hesperocorixa,preysOn,Hesperocorixa
+Hesperocorixa,preysOn,Hesperocorixa
+Tramea,preysOn,Hesperocorixa
+Tramea,preysOn,Hesperocorixa
+Coenagrion,preysOn,Hesperocorixa
+Lestes,preysOn,Hesperocorixa
+Anax junius,preysOn,Hesperocorixa
+Taricha torosa,preysOn,Hesperocorixa
+Taricha torosa,preysOn,Hesperocorixa
+Anaxyrus boreas,preysOn,Hesperocorixa
+Pseudiacris regilla,preysOn,Hesperocorixa
+Rana draytonii,preysOn,Hesperocorixa
+Tachycineta bicolor,preysOn,Hesperocorixa
+Hirundo rustica,preysOn,Hesperocorixa
+Agelaius phoeniceus,preysOn,Hesperocorixa
+Fulica americana,preysOn,Hesperocorixa
+Arrenurus,parasiteOf,Hesperocorixa
+Notonecta,preysOn,Hesperocorixa
+Notonecta,preysOn,Hesperocorixa
+Hesperocorixa,preysOn,Hesperocorixa
+Hesperocorixa,preysOn,Hesperocorixa
+Tramea,preysOn,Hesperocorixa
+Coenagrion,preysOn,Hesperocorixa
+Lestes,preysOn,Hesperocorixa
+Anax junius,preysOn,Hesperocorixa
+Taricha torosa,preysOn,Hesperocorixa
+Taricha torosa,preysOn,Hesperocorixa
+Anaxyrus boreas,preysOn,Hesperocorixa
+Pseudiacris regilla,preysOn,Hesperocorixa
+Rana draytonii,preysOn,Hesperocorixa
+Tachycineta bicolor,preysOn,Hesperocorixa
+Hirundo rustica,preysOn,Hesperocorixa
+Agelaius phoeniceus,preysOn,Hesperocorixa
+Fulica americana,preysOn,Hesperocorixa
+Arrenurus,parasiteOf,Hesperocorixa
+Letherocerus americanus,preysOn,Letherocerus americanus
+Letherocerus americanus,preysOn,Letherocerus americanus
+Fulica americana,preysOn,Letherocerus americanus
+Buteo jamaicensis,preysOn,Letherocerus americanus
+Ardea herodias,preysOn,Letherocerus americanus
+Arrenurus,parasiteOf,Letherocerus americanus
+Hydrophilus,preysOn,Letherocerus americanus
+Hydrophilus,preysOn,Letherocerus americanus
+Tropisternus,preysOn,Letherocerus americanus
+Notonecta,preysOn,Letherocerus americanus
+Notonecta,preysOn,Letherocerus americanus
+Letherocerus americanus,preysOn,Letherocerus americanus
+Letherocerus americanus,preysOn,Letherocerus americanus
+Belostoma,preysOn,Letherocerus americanus
+Belostoma,preysOn,Letherocerus americanus
+Tramea,preysOn,Letherocerus americanus
+Coenagrion,preysOn,Letherocerus americanus
+Lestes,preysOn,Letherocerus americanus
+Anax junius,preysOn,Letherocerus americanus
+Taricha torosa,preysOn,Letherocerus americanus
+Taricha torosa,preysOn,Letherocerus americanus
+Anaxyrus boreas,preysOn,Letherocerus americanus
+Pseudiacris regilla,preysOn,Letherocerus americanus
+Rana draytonii,preysOn,Letherocerus americanus
+Fulica americana,preysOn,Letherocerus americanus
+Buteo jamaicensis,preysOn,Letherocerus americanus
+Ardea herodias,preysOn,Letherocerus americanus
+Arrenurus,parasiteOf,Letherocerus americanus
+Hydrophilus,preysOn,Belostoma
+Hydrophilus,preysOn,Belostoma
+Tropisternus,preysOn,Belostoma
+Notonecta,preysOn,Belostoma
+Notonecta,preysOn,Belostoma
+Letherocerus americanus,preysOn,Belostoma
+Letherocerus americanus,preysOn,Belostoma
+Belostoma,preysOn,Belostoma
+Belostoma,preysOn,Belostoma
+Lestes,preysOn,Belostoma
+Anax junius,preysOn,Belostoma
+Taricha torosa,preysOn,Belostoma
+Taricha torosa,preysOn,Belostoma
+Anaxyrus boreas,preysOn,Belostoma
+Rana draytonii,preysOn,Belostoma
+Fulica americana,preysOn,Belostoma
+Buteo jamaicensis,preysOn,Belostoma
+Ardea herodias,preysOn,Belostoma
+Arrenurus,parasiteOf,Belostoma
+Hydrophilus,preysOn,Belostoma
+Hydrophilus,preysOn,Belostoma
+Tropisternus,preysOn,Belostoma
+Notonecta,preysOn,Belostoma
+Notonecta,preysOn,Belostoma
+Letherocerus americanus,preysOn,Belostoma
+Letherocerus americanus,preysOn,Belostoma
+Belostoma,preysOn,Belostoma
+Belostoma,preysOn,Belostoma
+Tramea,preysOn,Belostoma
+Coenagrion,preysOn,Belostoma
+Lestes,preysOn,Belostoma
+Anax junius,preysOn,Belostoma
+Taricha torosa,preysOn,Belostoma
+Taricha torosa,preysOn,Belostoma
+Anaxyrus boreas,preysOn,Belostoma
+Pseudiacris regilla,preysOn,Belostoma
+Rana draytonii,preysOn,Belostoma
+Fulica americana,preysOn,Belostoma
+Buteo jamaicensis,preysOn,Belostoma
+Ardea herodias,preysOn,Belostoma
+Arrenurus,parasiteOf,Belostoma
+Tramea,preysOn,Chironomidae
+Coenagrion,preysOn,Chironomidae
+Lestes,preysOn,Chironomidae
+Anax junius,preysOn,Chironomidae
+Anaxyrus boreas,preysOn,Chironomidae
+Pseudiacris regilla,preysOn,Chironomidae
+Rana draytonii,preysOn,Chironomidae
+Tachycineta bicolor,preysOn,Chironomidae
+Hirundo rustica,preysOn,Chironomidae
+Agelaius phoeniceus,preysOn,Chironomidae
+Gregarinidae,interactsWith,Chironomidae
+Erpobdella,preysOn,Chironomidae
+Macrocyclops,preysOn,Chironomidae
+Hydrophilus,preysOn,Chironomidae
+Hydrophilus,preysOn,Chironomidae
+Tropisternus,preysOn,Chironomidae
+Notonecta,preysOn,Chironomidae
+Notonecta,preysOn,Chironomidae
+Gerridae,preysOn,Chironomidae
+Gerridae,preysOn,Chironomidae
+Hesperocorixa,preysOn,Chironomidae
+Hesperocorixa,preysOn,Chironomidae
+Letherocerus americanus,preysOn,Chironomidae
+Letherocerus americanus,preysOn,Chironomidae
+Belostoma,preysOn,Chironomidae
+Belostoma,preysOn,Chironomidae
+Tramea,preysOn,Chironomidae
+Coenagrion,preysOn,Chironomidae
+Coenagrion,preysOn,Chironomidae
+Lestes,preysOn,Chironomidae
+Lestes,preysOn,Chironomidae
+Anax junius,preysOn,Chironomidae
+Anax junius,preysOn,Chironomidae
+Taricha torosa,preysOn,Chironomidae
+Taricha torosa,preysOn,Chironomidae
+Anaxyrus boreas,preysOn,Chironomidae
+Pseudiacris regilla,preysOn,Chironomidae
+Rana draytonii,preysOn,Chironomidae
+Erpobdella,preysOn,Chironomidae
+Macrocyclops,preysOn,Chironomidae
+Hydrophilus,preysOn,Chironomidae
+Hydrophilus,preysOn,Chironomidae
+Tropisternus,preysOn,Chironomidae
+Notonecta,preysOn,Chironomidae
+Notonecta,preysOn,Chironomidae
+Gerridae,preysOn,Chironomidae
+Gerridae,preysOn,Chironomidae
+Hesperocorixa,preysOn,Chironomidae
+Hesperocorixa,preysOn,Chironomidae
+Letherocerus americanus,preysOn,Chironomidae
+Letherocerus americanus,preysOn,Chironomidae
+Belostoma,preysOn,Chironomidae
+Belostoma,preysOn,Chironomidae
+Tramea,preysOn,Chironomidae
+Coenagrion,preysOn,Chironomidae
+Coenagrion,preysOn,Chironomidae
+Lestes,preysOn,Chironomidae
+Lestes,preysOn,Chironomidae
+Anax junius,preysOn,Chironomidae
+Anax junius,preysOn,Chironomidae
+Taricha torosa,preysOn,Chironomidae
+Taricha torosa,preysOn,Chironomidae
+Anaxyrus boreas,preysOn,Chironomidae
+Pseudiacris regilla,preysOn,Chironomidae
+Rana draytonii,preysOn,Chironomidae
+Gregarinidae,interactsWith,Chironomidae
+Tramea,preysOn,Ceratopogonidae
+Coenagrion,preysOn,Ceratopogonidae
+Lestes,preysOn,Ceratopogonidae
+Anax junius,preysOn,Ceratopogonidae
+Anaxyrus boreas,preysOn,Ceratopogonidae
+Pseudiacris regilla,preysOn,Ceratopogonidae
+Rana draytonii,preysOn,Ceratopogonidae
+Tachycineta bicolor,preysOn,Ceratopogonidae
+Hirundo rustica,preysOn,Ceratopogonidae
+Agelaius phoeniceus,preysOn,Ceratopogonidae
+Erpobdella,preysOn,Ceratopogonidae
+Macrocyclops,preysOn,Ceratopogonidae
+Hydrophilus,preysOn,Ceratopogonidae
+Hydrophilus,preysOn,Ceratopogonidae
+Tropisternus,preysOn,Ceratopogonidae
+Notonecta,preysOn,Ceratopogonidae
+Notonecta,preysOn,Ceratopogonidae
+Gerridae,preysOn,Ceratopogonidae
+Gerridae,preysOn,Ceratopogonidae
+Hesperocorixa,preysOn,Ceratopogonidae
+Hesperocorixa,preysOn,Ceratopogonidae
+Letherocerus americanus,preysOn,Ceratopogonidae
+Letherocerus americanus,preysOn,Ceratopogonidae
+Belostoma,preysOn,Ceratopogonidae
+Belostoma,preysOn,Ceratopogonidae
+Tramea,preysOn,Ceratopogonidae
+Coenagrion,preysOn,Ceratopogonidae
+Lestes,preysOn,Ceratopogonidae
+Anax junius,preysOn,Ceratopogonidae
+Taricha torosa,preysOn,Ceratopogonidae
+Taricha torosa,preysOn,Ceratopogonidae
+Anaxyrus boreas,preysOn,Ceratopogonidae
+Pseudiacris regilla,preysOn,Ceratopogonidae
+Rana draytonii,preysOn,Ceratopogonidae
+Fulica americana,preysOn,Ceratopogonidae
+Erpobdella,preysOn,Ceratopogonidae
+Macrocyclops,preysOn,Ceratopogonidae
+Hydrophilus,preysOn,Ceratopogonidae
+Hydrophilus,preysOn,Ceratopogonidae
+Tropisternus,preysOn,Ceratopogonidae
+Notonecta,preysOn,Ceratopogonidae
+Notonecta,preysOn,Ceratopogonidae
+Gerridae,preysOn,Ceratopogonidae
+Gerridae,preysOn,Ceratopogonidae
+Hesperocorixa,preysOn,Ceratopogonidae
+Hesperocorixa,preysOn,Ceratopogonidae
+Letherocerus americanus,preysOn,Ceratopogonidae
+Letherocerus americanus,preysOn,Ceratopogonidae
+Belostoma,preysOn,Ceratopogonidae
+Belostoma,preysOn,Ceratopogonidae
+Tramea,preysOn,Ceratopogonidae
+Coenagrion,preysOn,Ceratopogonidae
+Lestes,preysOn,Ceratopogonidae
+Anax junius,preysOn,Ceratopogonidae
+Taricha torosa,preysOn,Ceratopogonidae
+Anaxyrus boreas,preysOn,Ceratopogonidae
+Pseudiacris regilla,preysOn,Ceratopogonidae
+Rana draytonii,preysOn,Ceratopogonidae
+Fulica americana,preysOn,Ceratopogonidae
+Tramea,preysOn,Ephydridae
+Pseudiacris regilla,preysOn,Ephydridae
+Tachycineta bicolor,preysOn,Ephydridae
+Hirundo rustica,preysOn,Ephydridae
+Agelaius phoeniceus,preysOn,Ephydridae
+Fulica americana,preysOn,Ephydridae
+Erpobdella,preysOn,Ephydridae
+Macrocyclops,preysOn,Ephydridae
+Hydrophilus,preysOn,Ephydridae
+Hydrophilus,preysOn,Ephydridae
+Tropisternus,preysOn,Ephydridae
+Notonecta,preysOn,Ephydridae
+Notonecta,preysOn,Ephydridae
+Gerridae,preysOn,Ephydridae
+Gerridae,preysOn,Ephydridae
+Hesperocorixa,preysOn,Ephydridae
+Hesperocorixa,preysOn,Ephydridae
+Letherocerus americanus,preysOn,Ephydridae
+Letherocerus americanus,preysOn,Ephydridae
+Belostoma,preysOn,Ephydridae
+Belostoma,preysOn,Ephydridae
+Tramea,preysOn,Ephydridae
+Coenagrion,preysOn,Ephydridae
+Coenagrion,preysOn,Ephydridae
+Lestes,preysOn,Ephydridae
+Lestes,preysOn,Ephydridae
+Anax junius,preysOn,Ephydridae
+Anax junius,preysOn,Ephydridae
+Taricha torosa,preysOn,Ephydridae
+Taricha torosa,preysOn,Ephydridae
+Anaxyrus boreas,preysOn,Ephydridae
+Pseudiacris regilla,preysOn,Ephydridae
+Rana draytonii,preysOn,Ephydridae
+Erpobdella,preysOn,Ephydridae
+Macrocyclops,preysOn,Ephydridae
+Hydrophilus,preysOn,Ephydridae
+Hydrophilus,preysOn,Ephydridae
+Tropisternus,preysOn,Ephydridae
+Notonecta,preysOn,Ephydridae
+Notonecta,preysOn,Ephydridae
+Gerridae,preysOn,Ephydridae
+Gerridae,preysOn,Ephydridae
+Hesperocorixa,preysOn,Ephydridae
+Hesperocorixa,preysOn,Ephydridae
+Letherocerus americanus,preysOn,Ephydridae
+Letherocerus americanus,preysOn,Ephydridae
+Belostoma,preysOn,Ephydridae
+Belostoma,preysOn,Ephydridae
+Tramea,preysOn,Ephydridae
+Coenagrion,preysOn,Ephydridae
+Coenagrion,preysOn,Ephydridae
+Lestes,preysOn,Ephydridae
+Lestes,preysOn,Ephydridae
+Anax junius,preysOn,Ephydridae
+Anax junius,preysOn,Ephydridae
+Taricha torosa,preysOn,Ephydridae
+Taricha torosa,preysOn,Ephydridae
+Anaxyrus boreas,preysOn,Ephydridae
+Pseudiacris regilla,preysOn,Ephydridae
+Rana draytonii,preysOn,Ephydridae
+Anax junius,preysOn,Tramea
+Taricha torosa,preysOn,Tramea
+Anaxyrus boreas,preysOn,Tramea
+Pseudiacris regilla,preysOn,Tramea
+Rana draytonii,preysOn,Tramea
+Tachycineta bicolor,preysOn,Tramea
+Hirundo rustica,preysOn,Tramea
+Agelaius phoeniceus,preysOn,Tramea
+Fulica americana,preysOn,Tramea
+Buteo jamaicensis,preysOn,Tramea
+Ardea herodias,preysOn,Tramea
+Arrenurus,parasiteOf,Tramea
+Gregarinidae,parasiteOf,Tramea
+Halipegus,parasiteOf,Tramea
+Hydrophilus,preysOn,Tramea
+Hydrophilus,preysOn,Tramea
+Tropisternus,preysOn,Tramea
+Notonecta,preysOn,Tramea
+Notonecta,preysOn,Tramea
+Letherocerus americanus,preysOn,Tramea
+Letherocerus americanus,preysOn,Tramea
+Belostoma,preysOn,Tramea
+Belostoma,preysOn,Tramea
+Tramea,preysOn,Tramea
+Coenagrion,preysOn,Tramea
+Lestes,preysOn,Tramea
+Anax junius,preysOn,Tramea
+Taricha torosa,preysOn,Tramea
+Taricha torosa,preysOn,Tramea
+Anaxyrus boreas,preysOn,Tramea
+Pseudiacris regilla,preysOn,Tramea
+Rana draytonii,preysOn,Tramea
+Arrenurus,parasiteOf,Tramea
+Gregarinidae,parasiteOf,Tramea
+Halipegus,parasiteOf,Tramea
+Tramea,preysOn,Coenagrion
+Coenagrion,preysOn,Coenagrion
+Lestes,preysOn,Coenagrion
+Anax junius,preysOn,Coenagrion
+Taricha torosa,preysOn,Coenagrion
+Anaxyrus boreas,preysOn,Coenagrion
+Pseudiacris regilla,preysOn,Coenagrion
+Rana draytonii,preysOn,Coenagrion
+Tachycineta bicolor,preysOn,Coenagrion
+Hirundo rustica,preysOn,Coenagrion
+Agelaius phoeniceus,preysOn,Coenagrion
+Fulica americana,preysOn,Coenagrion
+Buteo jamaicensis,preysOn,Coenagrion
+Ardea herodias,preysOn,Coenagrion
+Arrenurus,parasiteOf,Coenagrion
+Gregarinidae,parasiteOf,Coenagrion
+Halipegus,parasiteOf,Coenagrion
+Hydrophilus,preysOn,Coenagrion
+Hydrophilus,preysOn,Coenagrion
+Tropisternus,preysOn,Coenagrion
+Notonecta,preysOn,Coenagrion
+Notonecta,preysOn,Coenagrion
+Gerridae,preysOn,Coenagrion
+Gerridae,preysOn,Coenagrion
+Hesperocorixa,preysOn,Coenagrion
+Hesperocorixa,preysOn,Coenagrion
+Letherocerus americanus,preysOn,Coenagrion
+Letherocerus americanus,preysOn,Coenagrion
+Belostoma,preysOn,Coenagrion
+Belostoma,preysOn,Coenagrion
+Tramea,preysOn,Coenagrion
+Coenagrion,preysOn,Coenagrion
+Lestes,preysOn,Coenagrion
+Anax junius,preysOn,Coenagrion
+Taricha torosa,preysOn,Coenagrion
+Taricha torosa,preysOn,Coenagrion
+Anaxyrus boreas,preysOn,Coenagrion
+Pseudiacris regilla,preysOn,Coenagrion
+Rana draytonii,preysOn,Coenagrion
+Arrenurus,parasiteOf,Coenagrion
+Gregarinidae,parasiteOf,Coenagrion
+Halipegus,parasiteOf,Coenagrion
+Tramea,preysOn,Lestes
+Coenagrion,preysOn,Lestes
+Lestes,preysOn,Lestes
+Anax junius,preysOn,Lestes
+Taricha torosa,preysOn,Lestes
+Anaxyrus boreas,preysOn,Lestes
+Pseudiacris regilla,preysOn,Lestes
+Rana draytonii,preysOn,Lestes
+Tachycineta bicolor,preysOn,Lestes
+Hirundo rustica,preysOn,Lestes
+Agelaius phoeniceus,preysOn,Lestes
+Fulica americana,preysOn,Lestes
+Buteo jamaicensis,preysOn,Lestes
+Ardea herodias,preysOn,Lestes
+Arrenurus,parasiteOf,Lestes
+Gregarinidae,parasiteOf,Lestes
+Halipegus,parasiteOf,Lestes
+Hydrophilus,preysOn,Lestes
+Hydrophilus,preysOn,Lestes
+Tropisternus,preysOn,Lestes
+Notonecta,preysOn,Lestes
+Notonecta,preysOn,Lestes
+Gerridae,preysOn,Lestes
+Gerridae,preysOn,Lestes
+Hesperocorixa,preysOn,Lestes
+Hesperocorixa,preysOn,Lestes
+Letherocerus americanus,preysOn,Lestes
+Letherocerus americanus,preysOn,Lestes
+Belostoma,preysOn,Lestes
+Belostoma,preysOn,Lestes
+Tramea,preysOn,Lestes
+Coenagrion,preysOn,Lestes
+Lestes,preysOn,Lestes
+Anax junius,preysOn,Lestes
+Taricha torosa,preysOn,Lestes
+Taricha torosa,preysOn,Lestes
+Anaxyrus boreas,preysOn,Lestes
+Pseudiacris regilla,preysOn,Lestes
+Rana draytonii,preysOn,Lestes
+Arrenurus,parasiteOf,Lestes
+Gregarinidae,parasiteOf,Lestes
+Halipegus,parasiteOf,Lestes
+Coenagrion,preysOn,Anax junius
+Anax junius,preysOn,Anax junius
+Taricha torosa,preysOn,Anax junius
+Anaxyrus boreas,preysOn,Anax junius
+Rana draytonii,preysOn,Anax junius
+Tachycineta bicolor,preysOn,Anax junius
+Hirundo rustica,preysOn,Anax junius
+Agelaius phoeniceus,preysOn,Anax junius
+Fulica americana,preysOn,Anax junius
+Buteo jamaicensis,preysOn,Anax junius
+Ardea herodias,preysOn,Anax junius
+Arrenurus,parasiteOf,Anax junius
+Gregarinidae,parasiteOf,Anax junius
+Halipegus,parasiteOf,Anax junius
+Hydrophilus,preysOn,Anax junius
+Hydrophilus,preysOn,Anax junius
+Tropisternus,preysOn,Anax junius
+Notonecta,preysOn,Anax junius
+Notonecta,preysOn,Anax junius
+Letherocerus americanus,preysOn,Anax junius
+Letherocerus americanus,preysOn,Anax junius
+Belostoma,preysOn,Anax junius
+Belostoma,preysOn,Anax junius
+Tramea,preysOn,Anax junius
+Coenagrion,preysOn,Anax junius
+Lestes,preysOn,Anax junius
+Anax junius,preysOn,Anax junius
+Taricha torosa,preysOn,Anax junius
+Taricha torosa,preysOn,Anax junius
+Anaxyrus boreas,preysOn,Anax junius
+Pseudiacris regilla,preysOn,Anax junius
+Rana draytonii,preysOn,Anax junius
+Arrenurus,parasiteOf,Anax junius
+Gregarinidae,parasiteOf,Anax junius
+Halipegus,parasiteOf,Anax junius
+Letherocerus americanus,preysOn,Taricha torosa
+Letherocerus americanus,preysOn,Taricha torosa
+Thamnophis atratus,preysOn,Taricha torosa
+Opalina,pathogenOf,Taricha torosa
+Nyctotherus,pathogenOf,Taricha torosa
+Batrachochytrium dendrobatidis,pathogenOf,Taricha torosa
+Nematoda,parasiteOf,Taricha torosa
+Ribeiroia ondatrae,parasiteOf,Taricha torosa
+Echinostoma trivolvis,parasiteOf,Taricha torosa
+Echinostoma,parasiteOf,Taricha torosa
+Halipegus,parasiteOf,Taricha torosa
+Hydrophilus,preysOn,Taricha torosa
+Hydrophilus,preysOn,Taricha torosa
+Notonecta,preysOn,Taricha torosa
+Notonecta,preysOn,Taricha torosa
+Letherocerus americanus,preysOn,Taricha torosa
+Letherocerus americanus,preysOn,Taricha torosa
+Belostoma,preysOn,Taricha torosa
+Belostoma,preysOn,Taricha torosa
+Tramea,preysOn,Taricha torosa
+Anax junius,preysOn,Taricha torosa
+Taricha torosa,preysOn,Taricha torosa
+Taricha torosa,preysOn,Taricha torosa
+Anaxyrus boreas,preysOn,Taricha torosa
+Rana draytonii,preysOn,Taricha torosa
+Thamnophis atratus,preysOn,Taricha torosa
+Fulica americana,preysOn,Taricha torosa
+Buteo jamaicensis,preysOn,Taricha torosa
+Ardea herodias,preysOn,Taricha torosa
+Spermophilus beecheyi,preysOn,Taricha torosa
+Canis latrans,preysOn,Taricha torosa
+Opalina,pathogenOf,Taricha torosa
+Nyctotherus,pathogenOf,Taricha torosa
+Batrachochytrium dendrobatidis,pathogenOf,Taricha torosa
+Nematoda,parasiteOf,Taricha torosa
+Ribeiroia ondatrae,parasiteOf,Taricha torosa
+Echinostoma trivolvis,parasiteOf,Taricha torosa
+Echinostoma,parasiteOf,Taricha torosa
+Cephalogonimus americanus,parasiteOf,Taricha torosa
+Letherocerus americanus,preysOn,Anaxyrus boreas
+Letherocerus americanus,preysOn,Anaxyrus boreas
+Belostoma,preysOn,Anaxyrus boreas
+Belostoma,preysOn,Anaxyrus boreas
+Anaxyrus boreas,preysOn,Anaxyrus boreas
+Rana draytonii,preysOn,Anaxyrus boreas
+Thamnophis atratus,preysOn,Anaxyrus boreas
+Buteo jamaicensis,preysOn,Anaxyrus boreas
+Ardea herodias,preysOn,Anaxyrus boreas
+Spermophilus beecheyi,preysOn,Anaxyrus boreas
+Canis latrans,preysOn,Anaxyrus boreas
+Opalina,pathogenOf,Anaxyrus boreas
+Nyctotherus,pathogenOf,Anaxyrus boreas
+Batrachochytrium dendrobatidis,pathogenOf,Anaxyrus boreas
+Ribeiroia ondatrae,parasiteOf,Anaxyrus boreas
+Echinostoma trivolvis,parasiteOf,Anaxyrus boreas
+Echinostoma,parasiteOf,Anaxyrus boreas
+Halipegus,parasiteOf,Anaxyrus boreas
+Alaria,parasiteOf,Anaxyrus boreas
+Cephalogonimus americanus,parasiteOf,Anaxyrus boreas
+Hydrophilus,preysOn,Anaxyrus boreas
+Hydrophilus,preysOn,Anaxyrus boreas
+Notonecta,preysOn,Anaxyrus boreas
+Notonecta,preysOn,Anaxyrus boreas
+Letherocerus americanus,preysOn,Anaxyrus boreas
+Letherocerus americanus,preysOn,Anaxyrus boreas
+Belostoma,preysOn,Anaxyrus boreas
+Belostoma,preysOn,Anaxyrus boreas
+Tramea,preysOn,Anaxyrus boreas
+Anax junius,preysOn,Anaxyrus boreas
+Taricha torosa,preysOn,Anaxyrus boreas
+Taricha torosa,preysOn,Anaxyrus boreas
+Anaxyrus boreas,preysOn,Anaxyrus boreas
+Rana draytonii,preysOn,Anaxyrus boreas
+Thamnophis atratus,preysOn,Anaxyrus boreas
+Fulica americana,preysOn,Anaxyrus boreas
+Buteo jamaicensis,preysOn,Anaxyrus boreas
+Ardea herodias,preysOn,Anaxyrus boreas
+Spermophilus beecheyi,preysOn,Anaxyrus boreas
+Opalina,pathogenOf,Anaxyrus boreas
+Nyctotherus,pathogenOf,Anaxyrus boreas
+Batrachochytrium dendrobatidis,pathogenOf,Anaxyrus boreas
+Ribeiroia ondatrae,parasiteOf,Anaxyrus boreas
+Echinostoma trivolvis,parasiteOf,Anaxyrus boreas
+Echinostoma,parasiteOf,Anaxyrus boreas
+Alaria,parasiteOf,Anaxyrus boreas
+Cephalogonimus americanus,parasiteOf,Anaxyrus boreas
+Letherocerus americanus,preysOn,Pseudiacris regilla
+Letherocerus americanus,preysOn,Pseudiacris regilla
+Belostoma,preysOn,Pseudiacris regilla
+Belostoma,preysOn,Pseudiacris regilla
+Taricha torosa,preysOn,Pseudiacris regilla
+Anaxyrus boreas,preysOn,Pseudiacris regilla
+Pseudiacris regilla,preysOn,Pseudiacris regilla
+Rana draytonii,preysOn,Pseudiacris regilla
+Thamnophis atratus,preysOn,Pseudiacris regilla
+Fulica americana,preysOn,Pseudiacris regilla
+Buteo jamaicensis,preysOn,Pseudiacris regilla
+Ardea herodias,preysOn,Pseudiacris regilla
+Spermophilus beecheyi,preysOn,Pseudiacris regilla
+Canis latrans,preysOn,Pseudiacris regilla
+Opalina,pathogenOf,Pseudiacris regilla
+Nyctotherus,pathogenOf,Pseudiacris regilla
+Batrachochytrium dendrobatidis,pathogenOf,Pseudiacris regilla
+Ribeiroia ondatrae,parasiteOf,Pseudiacris regilla
+Echinostoma trivolvis,parasiteOf,Pseudiacris regilla
+Echinostoma,parasiteOf,Pseudiacris regilla
+Halipegus,parasiteOf,Pseudiacris regilla
+Alaria,parasiteOf,Pseudiacris regilla
+Cephalogonimus americanus,parasiteOf,Pseudiacris regilla
+Hydrophilus,preysOn,Pseudiacris regilla
+Hydrophilus,preysOn,Pseudiacris regilla
+Notonecta,preysOn,Pseudiacris regilla
+Notonecta,preysOn,Pseudiacris regilla
+Letherocerus americanus,preysOn,Pseudiacris regilla
+Letherocerus americanus,preysOn,Pseudiacris regilla
+Belostoma,preysOn,Pseudiacris regilla
+Belostoma,preysOn,Pseudiacris regilla
+Tramea,preysOn,Pseudiacris regilla
+Anax junius,preysOn,Pseudiacris regilla
+Taricha torosa,preysOn,Pseudiacris regilla
+Taricha torosa,preysOn,Pseudiacris regilla
+Anaxyrus boreas,preysOn,Pseudiacris regilla
+Rana draytonii,preysOn,Pseudiacris regilla
+Thamnophis atratus,preysOn,Pseudiacris regilla
+Fulica americana,preysOn,Pseudiacris regilla
+Buteo jamaicensis,preysOn,Pseudiacris regilla
+Ardea herodias,preysOn,Pseudiacris regilla
+Spermophilus beecheyi,preysOn,Pseudiacris regilla
+Canis latrans,preysOn,Pseudiacris regilla
+Opalina,pathogenOf,Pseudiacris regilla
+Nyctotherus,pathogenOf,Pseudiacris regilla
+Batrachochytrium dendrobatidis,pathogenOf,Pseudiacris regilla
+Ribeiroia ondatrae,parasiteOf,Pseudiacris regilla
+Echinostoma trivolvis,parasiteOf,Pseudiacris regilla
+Echinostoma,parasiteOf,Pseudiacris regilla
+Alaria,parasiteOf,Pseudiacris regilla
+Cephalogonimus americanus,parasiteOf,Pseudiacris regilla
+Letherocerus americanus,preysOn,Rana draytonii
+Letherocerus americanus,preysOn,Rana draytonii
+Taricha torosa,preysOn,Rana draytonii
+Rana draytonii,preysOn,Rana draytonii
+Thamnophis atratus,preysOn,Rana draytonii
+Fulica americana,preysOn,Rana draytonii
+Buteo jamaicensis,preysOn,Rana draytonii
+Ardea herodias,preysOn,Rana draytonii
+Spermophilus beecheyi,preysOn,Rana draytonii
+Canis latrans,preysOn,Rana draytonii
+Opalina,pathogenOf,Rana draytonii
+Nyctotherus,pathogenOf,Rana draytonii
+Batrachochytrium dendrobatidis,pathogenOf,Rana draytonii
+Ribeiroia ondatrae,parasiteOf,Rana draytonii
+Megalodiscus,parasiteOf,Rana draytonii
+Echinostoma trivolvis,parasiteOf,Rana draytonii
+Echinostoma,parasiteOf,Rana draytonii
+Halipegus,parasiteOf,Rana draytonii
+Alaria,parasiteOf,Rana draytonii
+Cephalogonimus americanus,parasiteOf,Rana draytonii
+Hydrophilus,preysOn,Rana draytonii
+Hydrophilus,preysOn,Rana draytonii
+Notonecta,preysOn,Rana draytonii
+Notonecta,preysOn,Rana draytonii
+Letherocerus americanus,preysOn,Rana draytonii
+Letherocerus americanus,preysOn,Rana draytonii
+Belostoma,preysOn,Rana draytonii
+Belostoma,preysOn,Rana draytonii
+Tramea,preysOn,Rana draytonii
+Anax junius,preysOn,Rana draytonii
+Taricha torosa,preysOn,Rana draytonii
+Taricha torosa,preysOn,Rana draytonii
+Rana draytonii,preysOn,Rana draytonii
+Thamnophis atratus,preysOn,Rana draytonii
+Fulica americana,preysOn,Rana draytonii
+Buteo jamaicensis,preysOn,Rana draytonii
+Ardea herodias,preysOn,Rana draytonii
+Spermophilus beecheyi,preysOn,Rana draytonii
+Canis latrans,preysOn,Rana draytonii
+Opalina,pathogenOf,Rana draytonii
+Nyctotherus,pathogenOf,Rana draytonii
+Batrachochytrium dendrobatidis,pathogenOf,Rana draytonii
+Ribeiroia ondatrae,parasiteOf,Rana draytonii
+Megalodiscus,parasiteOf,Rana draytonii
+Echinostoma trivolvis,parasiteOf,Rana draytonii
+Echinostoma,parasiteOf,Rana draytonii
+Alaria,parasiteOf,Rana draytonii
+Cephalogonimus americanus,parasiteOf,Rana draytonii
+Buteo jamaicensis,preysOn,Thamnophis atratus
+Ardea herodias,preysOn,Thamnophis atratus
+Canis latrans,preysOn,Thamnophis atratus
+Alaria,parasiteOf,Thamnophis atratus
+Buteo jamaicensis,preysOn,Tachycineta bicolor
+Ardea herodias,preysOn,Tachycineta bicolor
+Buteo jamaicensis,preysOn,Hirundo rustica
+Ardea herodias,preysOn,Hirundo rustica
+Buteo jamaicensis,preysOn,Agelaius phoeniceus
+Ardea herodias,preysOn,Agelaius phoeniceus
+Buteo jamaicensis,preysOn,Fulica americana
+Ardea herodias,preysOn,Fulica americana
+Canis latrans,preysOn,Fulica americana
+Ribeiroia ondatrae,parasiteOf,Fulica americana
+Echinostoma trivolvis,parasiteOf,Fulica americana
+Echinostoma,parasiteOf,Fulica americana
+Pseudocorynosoma constrictum,parasiteOf,Fulica americana
+Ribeiroia ondatrae,parasiteOf,Buteo jamaicensis
+Echinostoma trivolvis,parasiteOf,Buteo jamaicensis
+Echinostoma,parasiteOf,Buteo jamaicensis
+Buteo jamaicensis,preysOn,Ardea herodias
+Ribeiroia ondatrae,parasiteOf,Ardea herodias
+Echinostoma trivolvis,parasiteOf,Ardea herodias
+Echinostoma,parasiteOf,Ardea herodias
+Buteo jamaicensis,preysOn,Spermophilus beecheyi
+Ardea herodias,preysOn,Spermophilus beecheyi
+Canis latrans,preysOn,Spermophilus beecheyi
+Ribeiroia ondatrae,parasiteOf,Spermophilus beecheyi
+Echinostoma trivolvis,parasiteOf,Spermophilus beecheyi
+Echinostoma,parasiteOf,Spermophilus beecheyi
+Alaria,parasiteOf,Canis latrans
+Macrocyclops,interactsWith,Arrenurus
+Hydrophilus,interactsWith,Arrenurus
+Hydrophilus,interactsWith,Arrenurus
+Tropisternus,interactsWith,Arrenurus
+Tramea,interactsWith,Arrenurus
+Tramea,interactsWith,Arrenurus
+Coenagrion,interactsWith,Arrenurus
+Coenagrion,interactsWith,Arrenurus
+Lestes,interactsWith,Arrenurus
+Lestes,interactsWith,Arrenurus
+Anax junius,interactsWith,Arrenurus
+Anax junius,interactsWith,Arrenurus
+Taricha torosa,interactsWith,Arrenurus
+Taricha torosa,interactsWith,Arrenurus
+Anaxyrus boreas,interactsWith,Arrenurus
+Pseudiacris regilla,interactsWith,Arrenurus
+Rana draytonii,interactsWith,Arrenurus
+Tachycineta bicolor,interactsWith,Arrenurus
+Hirundo rustica,interactsWith,Arrenurus
+Agelaius phoeniceus,interactsWith,Arrenurus
+Fulica americana,interactsWith,Arrenurus
+Buteo jamaicensis,interactsWith,Arrenurus
+Ardea herodias,interactsWith,Arrenurus
+Hydrophilus,interactsWith,Opalina
+Hydrophilus,interactsWith,Opalina
+Notonecta,interactsWith,Opalina
+Notonecta,interactsWith,Opalina
+Letherocerus americanus,interactsWith,Opalina
+Letherocerus americanus,interactsWith,Opalina
+Belostoma,interactsWith,Opalina
+Belostoma,interactsWith,Opalina
+Tramea,interactsWith,Opalina
+Anax junius,interactsWith,Opalina
+Taricha torosa,interactsWith,Opalina
+Taricha torosa,interactsWith,Opalina
+Anaxyrus boreas,interactsWith,Opalina
+Pseudiacris regilla,interactsWith,Opalina
+Rana draytonii,interactsWith,Opalina
+Thamnophis atratus,interactsWith,Opalina
+Fulica americana,interactsWith,Opalina
+Buteo jamaicensis,interactsWith,Opalina
+Ardea herodias,interactsWith,Opalina
+Spermophilus beecheyi,interactsWith,Opalina
+Canis latrans,interactsWith,Opalina
+zooplankton,preysOn,Opalina
+meiofauna,preysOn,Opalina
+Dero,preysOn,Opalina
+Tubificidae,preysOn,Opalina
+Physa,preysOn,Opalina
+Helisoma,preysOn,Opalina
+Hyalella,preysOn,Opalina
+Simocephalus,preysOn,Opalina
+Cyzicus californicus,preysOn,Opalina
+Callibaetis,preysOn,Opalina
+Haliplus,preysOn,Opalina
+Haliplus,preysOn,Opalina
+Hydrophilus,preysOn,Opalina
+Hydrophilus,preysOn,Opalina
+Tropisternus,preysOn,Opalina
+Tropisternus,preysOn,Opalina
+Chironomidae,preysOn,Opalina
+Ceratopogonidae,preysOn,Opalina
+Ephydridae,preysOn,Opalina
+Taricha torosa,interactsWith,Opalina
+Anaxyrus boreas,interactsWith,Opalina
+Pseudiacris regilla,interactsWith,Opalina
+Rana draytonii,interactsWith,Opalina
+Hydrophilus,interactsWith,Nyctotherus
+Hydrophilus,interactsWith,Nyctotherus
+Notonecta,interactsWith,Nyctotherus
+Notonecta,interactsWith,Nyctotherus
+Letherocerus americanus,interactsWith,Nyctotherus
+Letherocerus americanus,interactsWith,Nyctotherus
+Belostoma,interactsWith,Nyctotherus
+Belostoma,interactsWith,Nyctotherus
+Tramea,interactsWith,Nyctotherus
+Anax junius,interactsWith,Nyctotherus
+Taricha torosa,interactsWith,Nyctotherus
+Taricha torosa,interactsWith,Nyctotherus
+Anaxyrus boreas,interactsWith,Nyctotherus
+Pseudiacris regilla,interactsWith,Nyctotherus
+Rana draytonii,interactsWith,Nyctotherus
+Thamnophis atratus,interactsWith,Nyctotherus
+Fulica americana,interactsWith,Nyctotherus
+Buteo jamaicensis,interactsWith,Nyctotherus
+Ardea herodias,interactsWith,Nyctotherus
+Spermophilus beecheyi,interactsWith,Nyctotherus
+Canis latrans,interactsWith,Nyctotherus
+zooplankton,preysOn,Nyctotherus
+meiofauna,preysOn,Nyctotherus
+Dero,preysOn,Nyctotherus
+Tubificidae,preysOn,Nyctotherus
+Physa,preysOn,Nyctotherus
+Helisoma,preysOn,Nyctotherus
+Hyalella,preysOn,Nyctotherus
+Simocephalus,preysOn,Nyctotherus
+Cyzicus californicus,preysOn,Nyctotherus
+Callibaetis,preysOn,Nyctotherus
+Haliplus,preysOn,Nyctotherus
+Haliplus,preysOn,Nyctotherus
+Hydrophilus,preysOn,Nyctotherus
+Hydrophilus,preysOn,Nyctotherus
+Tropisternus,preysOn,Nyctotherus
+Tropisternus,preysOn,Nyctotherus
+Chironomidae,preysOn,Nyctotherus
+Ceratopogonidae,preysOn,Nyctotherus
+Ephydridae,preysOn,Nyctotherus
+Taricha torosa,interactsWith,Nyctotherus
+Anaxyrus boreas,interactsWith,Nyctotherus
+Pseudiacris regilla,interactsWith,Nyctotherus
+Rana draytonii,interactsWith,Nyctotherus
+Macrocyclops,interactsWith,Gregarinidae
+Hydrophilus,interactsWith,Gregarinidae
+Hydrophilus,interactsWith,Gregarinidae
+Tropisternus,interactsWith,Gregarinidae
+Notonecta,interactsWith,Gregarinidae
+Notonecta,interactsWith,Gregarinidae
+Gerridae,interactsWith,Gregarinidae
+Gerridae,interactsWith,Gregarinidae
+Hesperocorixa,interactsWith,Gregarinidae
+Hesperocorixa,interactsWith,Gregarinidae
+Letherocerus americanus,interactsWith,Gregarinidae
+Letherocerus americanus,interactsWith,Gregarinidae
+Belostoma,interactsWith,Gregarinidae
+Belostoma,interactsWith,Gregarinidae
+Tramea,interactsWith,Gregarinidae
+Tramea,interactsWith,Gregarinidae
+Coenagrion,interactsWith,Gregarinidae
+Coenagrion,interactsWith,Gregarinidae
+Lestes,interactsWith,Gregarinidae
+Lestes,interactsWith,Gregarinidae
+Anax junius,interactsWith,Gregarinidae
+Anax junius,interactsWith,Gregarinidae
+Taricha torosa,interactsWith,Gregarinidae
+Taricha torosa,interactsWith,Gregarinidae
+Anaxyrus boreas,interactsWith,Gregarinidae
+Pseudiacris regilla,interactsWith,Gregarinidae
+Rana draytonii,interactsWith,Gregarinidae
+Tachycineta bicolor,interactsWith,Gregarinidae
+Hirundo rustica,interactsWith,Gregarinidae
+Agelaius phoeniceus,interactsWith,Gregarinidae
+Fulica americana,interactsWith,Gregarinidae
+Buteo jamaicensis,interactsWith,Gregarinidae
+Ardea herodias,interactsWith,Gregarinidae
+zooplankton,preysOn,Gregarinidae
+meiofauna,preysOn,Gregarinidae
+Dero,preysOn,Gregarinidae
+Tubificidae,preysOn,Gregarinidae
+Physa,preysOn,Gregarinidae
+Helisoma,preysOn,Gregarinidae
+Hyalella,preysOn,Gregarinidae
+Simocephalus,preysOn,Gregarinidae
+Cyzicus californicus,preysOn,Gregarinidae
+Callibaetis,interactsWith,Gregarinidae
+Haliplus,preysOn,Gregarinidae
+Haliplus,preysOn,Gregarinidae
+Hydrophilus,preysOn,Gregarinidae
+Hydrophilus,preysOn,Gregarinidae
+Tropisternus,preysOn,Gregarinidae
+Tropisternus,preysOn,Gregarinidae
+Chironomidae,interactsWith,Gregarinidae
+Ceratopogonidae,preysOn,Gregarinidae
+Ephydridae,preysOn,Gregarinidae
+Tramea,interactsWith,Gregarinidae
+Coenagrion,interactsWith,Gregarinidae
+Lestes,interactsWith,Gregarinidae
+Anax junius,interactsWith,Gregarinidae
+Anaxyrus boreas,preysOn,Gregarinidae
+Anaxyrus boreas,preysOn,Gregarinidae
+Pseudiacris regilla,preysOn,Gregarinidae
+Rana draytonii,preysOn,Gregarinidae
+Hydrophilus,interactsWith,Batrachochytrium dendrobatidis
+Hydrophilus,interactsWith,Batrachochytrium dendrobatidis
+Notonecta,interactsWith,Batrachochytrium dendrobatidis
+Notonecta,interactsWith,Batrachochytrium dendrobatidis
+Letherocerus americanus,interactsWith,Batrachochytrium dendrobatidis
+Letherocerus americanus,interactsWith,Batrachochytrium dendrobatidis
+Belostoma,interactsWith,Batrachochytrium dendrobatidis
+Belostoma,interactsWith,Batrachochytrium dendrobatidis
+Tramea,interactsWith,Batrachochytrium dendrobatidis
+Anax junius,interactsWith,Batrachochytrium dendrobatidis
+Taricha torosa,interactsWith,Batrachochytrium dendrobatidis
+Taricha torosa,interactsWith,Batrachochytrium dendrobatidis
+Anaxyrus boreas,interactsWith,Batrachochytrium dendrobatidis
+Pseudiacris regilla,interactsWith,Batrachochytrium dendrobatidis
+Rana draytonii,interactsWith,Batrachochytrium dendrobatidis
+Thamnophis atratus,interactsWith,Batrachochytrium dendrobatidis
+Fulica americana,interactsWith,Batrachochytrium dendrobatidis
+Buteo jamaicensis,interactsWith,Batrachochytrium dendrobatidis
+Ardea herodias,interactsWith,Batrachochytrium dendrobatidis
+Spermophilus beecheyi,interactsWith,Batrachochytrium dendrobatidis
+Canis latrans,interactsWith,Batrachochytrium dendrobatidis
+zooplankton,preysOn,Batrachochytrium dendrobatidis
+meiofauna,preysOn,Batrachochytrium dendrobatidis
+Dero,preysOn,Batrachochytrium dendrobatidis
+Tubificidae,preysOn,Batrachochytrium dendrobatidis
+Diaptomidae,preysOn,Batrachochytrium dendrobatidis
+Simocephalus,preysOn,Batrachochytrium dendrobatidis
+Cyzicus californicus,preysOn,Batrachochytrium dendrobatidis
+Hydrophilus,interactsWith,Nematoda
+Hydrophilus,interactsWith,Nematoda
+Notonecta,interactsWith,Nematoda
+Notonecta,interactsWith,Nematoda
+Letherocerus americanus,interactsWith,Nematoda
+Letherocerus americanus,interactsWith,Nematoda
+Belostoma,interactsWith,Nematoda
+Belostoma,interactsWith,Nematoda
+Tramea,interactsWith,Nematoda
+Anax junius,interactsWith,Nematoda
+Taricha torosa,interactsWith,Nematoda
+Taricha torosa,interactsWith,Nematoda
+Anaxyrus boreas,interactsWith,Nematoda
+Pseudiacris regilla,interactsWith,Nematoda
+Rana draytonii,interactsWith,Nematoda
+Thamnophis atratus,interactsWith,Nematoda
+Fulica americana,interactsWith,Nematoda
+Buteo jamaicensis,interactsWith,Nematoda
+Ardea herodias,interactsWith,Nematoda
+Spermophilus beecheyi,interactsWith,Nematoda
+Canis latrans,interactsWith,Nematoda
+Hydrophilus,interactsWith,Daubaylia
+Hydrophilus,interactsWith,Daubaylia
+Tropisternus,interactsWith,Daubaylia
+Letherocerus americanus,interactsWith,Daubaylia
+Letherocerus americanus,interactsWith,Daubaylia
+Belostoma,interactsWith,Daubaylia
+Belostoma,interactsWith,Daubaylia
+Tramea,interactsWith,Daubaylia
+Anax junius,interactsWith,Daubaylia
+Taricha torosa,interactsWith,Daubaylia
+Taricha torosa,interactsWith,Daubaylia
+Anaxyrus boreas,interactsWith,Daubaylia
+Rana draytonii,interactsWith,Daubaylia
+Fulica americana,interactsWith,Daubaylia
+Buteo jamaicensis,interactsWith,Ribeiroia ondatrae
+Ardea herodias,interactsWith,Ribeiroia ondatrae
+Canis latrans,interactsWith,Ribeiroia ondatrae
+Hydrophilus,interactsWith,Ribeiroia ondatrae
+Hydrophilus,interactsWith,Ribeiroia ondatrae
+Tropisternus,interactsWith,Ribeiroia ondatrae
+Letherocerus americanus,interactsWith,Ribeiroia ondatrae
+Letherocerus americanus,interactsWith,Ribeiroia ondatrae
+Belostoma,interactsWith,Ribeiroia ondatrae
+Belostoma,interactsWith,Ribeiroia ondatrae
+Tramea,interactsWith,Ribeiroia ondatrae
+Anax junius,interactsWith,Ribeiroia ondatrae
+Taricha torosa,interactsWith,Ribeiroia ondatrae
+Taricha torosa,interactsWith,Ribeiroia ondatrae
+Anaxyrus boreas,interactsWith,Ribeiroia ondatrae
+Rana draytonii,interactsWith,Ribeiroia ondatrae
+Fulica americana,interactsWith,Ribeiroia ondatrae
+Echinostoma trivolvis,parasiteOf,Ribeiroia ondatrae
+zooplankton,preysOn,Ribeiroia ondatrae
+meiofauna,preysOn,Ribeiroia ondatrae
+Chaetogaster,preysOn,Ribeiroia ondatrae
+Macrocyclops,preysOn,Ribeiroia ondatrae
+Diaptomidae,preysOn,Ribeiroia ondatrae
+Simocephalus,preysOn,Ribeiroia ondatrae
+Cyzicus californicus,preysOn,Ribeiroia ondatrae
+Chironomidae,preysOn,Ribeiroia ondatrae
+Ceratopogonidae,preysOn,Ribeiroia ondatrae
+Tramea,preysOn,Ribeiroia ondatrae
+Coenagrion,preysOn,Ribeiroia ondatrae
+Lestes,preysOn,Ribeiroia ondatrae
+Anax junius,preysOn,Ribeiroia ondatrae
+Taricha torosa,preysOn,Ribeiroia ondatrae
+Hydrophilus,interactsWith,Ribeiroia ondatrae
+Hydrophilus,interactsWith,Ribeiroia ondatrae
+Notonecta,interactsWith,Ribeiroia ondatrae
+Notonecta,interactsWith,Ribeiroia ondatrae
+Letherocerus americanus,interactsWith,Ribeiroia ondatrae
+Letherocerus americanus,interactsWith,Ribeiroia ondatrae
+Belostoma,interactsWith,Ribeiroia ondatrae
+Belostoma,interactsWith,Ribeiroia ondatrae
+Tramea,interactsWith,Ribeiroia ondatrae
+Anax junius,interactsWith,Ribeiroia ondatrae
+Taricha torosa,interactsWith,Ribeiroia ondatrae
+Taricha torosa,interactsWith,Ribeiroia ondatrae
+Anaxyrus boreas,interactsWith,Ribeiroia ondatrae
+Pseudiacris regilla,interactsWith,Ribeiroia ondatrae
+Rana draytonii,interactsWith,Ribeiroia ondatrae
+Thamnophis atratus,interactsWith,Ribeiroia ondatrae
+Fulica americana,interactsWith,Ribeiroia ondatrae
+Buteo jamaicensis,interactsWith,Ribeiroia ondatrae
+Ardea herodias,interactsWith,Ribeiroia ondatrae
+Spermophilus beecheyi,interactsWith,Ribeiroia ondatrae
+Canis latrans,interactsWith,Ribeiroia ondatrae
+Hydrophilus,interactsWith,Megalodiscus
+Hydrophilus,interactsWith,Megalodiscus
+Notonecta,interactsWith,Megalodiscus
+Notonecta,interactsWith,Megalodiscus
+Letherocerus americanus,interactsWith,Megalodiscus
+Letherocerus americanus,interactsWith,Megalodiscus
+Belostoma,interactsWith,Megalodiscus
+Belostoma,interactsWith,Megalodiscus
+Tramea,interactsWith,Megalodiscus
+Anax junius,interactsWith,Megalodiscus
+Taricha torosa,interactsWith,Megalodiscus
+Taricha torosa,interactsWith,Megalodiscus
+Anaxyrus boreas,interactsWith,Megalodiscus
+Rana draytonii,interactsWith,Megalodiscus
+Thamnophis atratus,interactsWith,Megalodiscus
+Fulica americana,interactsWith,Megalodiscus
+Buteo jamaicensis,interactsWith,Megalodiscus
+Ardea herodias,interactsWith,Megalodiscus
+Spermophilus beecheyi,interactsWith,Megalodiscus
+Canis latrans,interactsWith,Megalodiscus
+Hydrophilus,interactsWith,Megalodiscus
+Hydrophilus,interactsWith,Megalodiscus
+Tropisternus,interactsWith,Megalodiscus
+Letherocerus americanus,interactsWith,Megalodiscus
+Letherocerus americanus,interactsWith,Megalodiscus
+Belostoma,interactsWith,Megalodiscus
+Belostoma,interactsWith,Megalodiscus
+Tramea,interactsWith,Megalodiscus
+Anax junius,interactsWith,Megalodiscus
+Taricha torosa,interactsWith,Megalodiscus
+Taricha torosa,interactsWith,Megalodiscus
+Anaxyrus boreas,interactsWith,Megalodiscus
+Rana draytonii,interactsWith,Megalodiscus
+Fulica americana,interactsWith,Megalodiscus
+Ribeiroia ondatrae,parasiteOf,Megalodiscus
+Echinostoma trivolvis,parasiteOf,Megalodiscus
+Cephalogonimus americanus,parasiteOf,Megalodiscus
+zooplankton,preysOn,Megalodiscus
+meiofauna,preysOn,Megalodiscus
+Dero,preysOn,Megalodiscus
+Tubificidae,preysOn,Megalodiscus
+Chaetogaster,preysOn,Megalodiscus
+Erpobdella,preysOn,Megalodiscus
+Macrocyclops,preysOn,Megalodiscus
+Diaptomidae,preysOn,Megalodiscus
+Simocephalus,preysOn,Megalodiscus
+Cyzicus californicus,preysOn,Megalodiscus
+Haliplus,preysOn,Megalodiscus
+Haliplus,preysOn,Megalodiscus
+Hydrophilus,preysOn,Megalodiscus
+Hydrophilus,preysOn,Megalodiscus
+Tropisternus,preysOn,Megalodiscus
+Tropisternus,preysOn,Megalodiscus
+Chironomidae,preysOn,Megalodiscus
+Ceratopogonidae,preysOn,Megalodiscus
+Ephydridae,preysOn,Megalodiscus
+Tramea,preysOn,Megalodiscus
+Coenagrion,preysOn,Megalodiscus
+Lestes,preysOn,Megalodiscus
+Anax junius,preysOn,Megalodiscus
+Taricha torosa,preysOn,Megalodiscus
+Hydrophilus,interactsWith,Megalodiscus
+Hydrophilus,interactsWith,Megalodiscus
+Notonecta,interactsWith,Megalodiscus
+Notonecta,interactsWith,Megalodiscus
+Letherocerus americanus,interactsWith,Megalodiscus
+Letherocerus americanus,interactsWith,Megalodiscus
+Belostoma,interactsWith,Megalodiscus
+Belostoma,interactsWith,Megalodiscus
+Tramea,interactsWith,Megalodiscus
+Anax junius,interactsWith,Megalodiscus
+Taricha torosa,interactsWith,Megalodiscus
+Taricha torosa,interactsWith,Megalodiscus
+Rana draytonii,interactsWith,Megalodiscus
+Thamnophis atratus,interactsWith,Megalodiscus
+Fulica americana,interactsWith,Megalodiscus
+Buteo jamaicensis,interactsWith,Megalodiscus
+Ardea herodias,interactsWith,Megalodiscus
+Spermophilus beecheyi,interactsWith,Megalodiscus
+Canis latrans,interactsWith,Megalodiscus
+Rana draytonii,interactsWith,Echinostoma trivolvis
+Buteo jamaicensis,interactsWith,Echinostoma trivolvis
+Ardea herodias,interactsWith,Echinostoma trivolvis
+Canis latrans,interactsWith,Echinostoma trivolvis
+Hydrophilus,interactsWith,Echinostoma trivolvis
+Hydrophilus,interactsWith,Echinostoma trivolvis
+Tropisternus,interactsWith,Echinostoma trivolvis
+Letherocerus americanus,interactsWith,Echinostoma trivolvis
+Letherocerus americanus,interactsWith,Echinostoma trivolvis
+Belostoma,interactsWith,Echinostoma trivolvis
+Belostoma,interactsWith,Echinostoma trivolvis
+Tramea,interactsWith,Echinostoma trivolvis
+Anax junius,interactsWith,Echinostoma trivolvis
+Taricha torosa,interactsWith,Echinostoma trivolvis
+Taricha torosa,interactsWith,Echinostoma trivolvis
+Anaxyrus boreas,interactsWith,Echinostoma trivolvis
+Rana draytonii,interactsWith,Echinostoma trivolvis
+Fulica americana,interactsWith,Echinostoma trivolvis
+zooplankton,preysOn,Echinostoma trivolvis
+meiofauna,preysOn,Echinostoma trivolvis
+Chaetogaster,preysOn,Echinostoma trivolvis
+Macrocyclops,preysOn,Echinostoma trivolvis
+Diaptomidae,preysOn,Echinostoma trivolvis
+Simocephalus,preysOn,Echinostoma trivolvis
+Cyzicus californicus,preysOn,Echinostoma trivolvis
+Chironomidae,preysOn,Echinostoma trivolvis
+Ceratopogonidae,preysOn,Echinostoma trivolvis
+Tramea,preysOn,Echinostoma trivolvis
+Coenagrion,preysOn,Echinostoma trivolvis
+Lestes,preysOn,Echinostoma trivolvis
+Anax junius,preysOn,Echinostoma trivolvis
+Taricha torosa,preysOn,Echinostoma trivolvis
+Hydrophilus,interactsWith,Echinostoma trivolvis
+Hydrophilus,interactsWith,Echinostoma trivolvis
+Tropisternus,interactsWith,Echinostoma trivolvis
+Notonecta,interactsWith,Echinostoma trivolvis
+Notonecta,interactsWith,Echinostoma trivolvis
+Letherocerus americanus,interactsWith,Echinostoma trivolvis
+Letherocerus americanus,interactsWith,Echinostoma trivolvis
+Belostoma,interactsWith,Echinostoma trivolvis
+Belostoma,interactsWith,Echinostoma trivolvis
+Tramea,interactsWith,Echinostoma trivolvis
+Anax junius,interactsWith,Echinostoma trivolvis
+Taricha torosa,interactsWith,Echinostoma trivolvis
+Taricha torosa,interactsWith,Echinostoma trivolvis
+Anaxyrus boreas,interactsWith,Echinostoma trivolvis
+Pseudiacris regilla,interactsWith,Echinostoma trivolvis
+Rana draytonii,interactsWith,Echinostoma trivolvis
+Thamnophis atratus,interactsWith,Echinostoma trivolvis
+Fulica americana,interactsWith,Echinostoma trivolvis
+Buteo jamaicensis,interactsWith,Echinostoma trivolvis
+Ardea herodias,interactsWith,Echinostoma trivolvis
+Spermophilus beecheyi,interactsWith,Echinostoma trivolvis
+Canis latrans,interactsWith,Echinostoma trivolvis
+Buteo jamaicensis,interactsWith,Echinostoma
+Ardea herodias,interactsWith,Echinostoma
+Canis latrans,interactsWith,Echinostoma
+Hydrophilus,interactsWith,Echinostoma
+Hydrophilus,interactsWith,Echinostoma
+Tropisternus,interactsWith,Echinostoma
+Letherocerus americanus,interactsWith,Echinostoma
+Letherocerus americanus,interactsWith,Echinostoma
+Belostoma,interactsWith,Echinostoma
+Belostoma,interactsWith,Echinostoma
+Tramea,interactsWith,Echinostoma
+Anax junius,interactsWith,Echinostoma
+Taricha torosa,interactsWith,Echinostoma
+Taricha torosa,interactsWith,Echinostoma
+Anaxyrus boreas,interactsWith,Echinostoma
+Rana draytonii,interactsWith,Echinostoma
+Fulica americana,interactsWith,Echinostoma
+zooplankton,preysOn,Echinostoma
+meiofauna,preysOn,Echinostoma
+Chaetogaster,preysOn,Echinostoma
+Macrocyclops,preysOn,Echinostoma
+Diaptomidae,preysOn,Echinostoma
+Simocephalus,preysOn,Echinostoma
+Cyzicus californicus,preysOn,Echinostoma
+Chironomidae,preysOn,Echinostoma
+Ceratopogonidae,preysOn,Echinostoma
+Tramea,preysOn,Echinostoma
+Coenagrion,preysOn,Echinostoma
+Lestes,preysOn,Echinostoma
+Anax junius,preysOn,Echinostoma
+Taricha torosa,preysOn,Echinostoma
+Hydrophilus,interactsWith,Echinostoma
+Hydrophilus,interactsWith,Echinostoma
+Tropisternus,interactsWith,Echinostoma
+Notonecta,interactsWith,Echinostoma
+Notonecta,interactsWith,Echinostoma
+Letherocerus americanus,interactsWith,Echinostoma
+Letherocerus americanus,interactsWith,Echinostoma
+Belostoma,interactsWith,Echinostoma
+Belostoma,interactsWith,Echinostoma
+Tramea,interactsWith,Echinostoma
+Anax junius,interactsWith,Echinostoma
+Taricha torosa,interactsWith,Echinostoma
+Taricha torosa,interactsWith,Echinostoma
+Anaxyrus boreas,interactsWith,Echinostoma
+Pseudiacris regilla,interactsWith,Echinostoma
+Rana draytonii,interactsWith,Echinostoma
+Thamnophis atratus,interactsWith,Echinostoma
+Fulica americana,interactsWith,Echinostoma
+Buteo jamaicensis,interactsWith,Echinostoma
+Ardea herodias,interactsWith,Echinostoma
+Spermophilus beecheyi,interactsWith,Echinostoma
+Canis latrans,interactsWith,Echinostoma
+Letherocerus americanus,interactsWith,Halipegus
+Letherocerus americanus,interactsWith,Halipegus
+Belostoma,interactsWith,Halipegus
+Belostoma,interactsWith,Halipegus
+Taricha torosa,interactsWith,Halipegus
+Anaxyrus boreas,interactsWith,Halipegus
+Pseudiacris regilla,interactsWith,Halipegus
+Rana draytonii,interactsWith,Halipegus
+Thamnophis atratus,interactsWith,Halipegus
+Fulica americana,interactsWith,Halipegus
+Buteo jamaicensis,interactsWith,Halipegus
+Ardea herodias,interactsWith,Halipegus
+Spermophilus beecheyi,interactsWith,Halipegus
+Canis latrans,interactsWith,Halipegus
+Hydrophilus,interactsWith,Halipegus
+Hydrophilus,interactsWith,Halipegus
+Tropisternus,interactsWith,Halipegus
+Letherocerus americanus,interactsWith,Halipegus
+Letherocerus americanus,interactsWith,Halipegus
+Belostoma,interactsWith,Halipegus
+Belostoma,interactsWith,Halipegus
+Tramea,interactsWith,Halipegus
+Anax junius,interactsWith,Halipegus
+Taricha torosa,interactsWith,Halipegus
+Taricha torosa,interactsWith,Halipegus
+Anaxyrus boreas,interactsWith,Halipegus
+Rana draytonii,interactsWith,Halipegus
+Fulica americana,interactsWith,Halipegus
+Ribeiroia ondatrae,parasiteOf,Halipegus
+Megalodiscus,parasiteOf,Halipegus
+Echinostoma trivolvis,parasiteOf,Halipegus
+Cephalogonimus americanus,parasiteOf,Halipegus
+zooplankton,preysOn,Halipegus
+meiofauna,preysOn,Halipegus
+Chaetogaster,preysOn,Halipegus
+Macrocyclops,preysOn,Halipegus
+Diaptomidae,preysOn,Halipegus
+Simocephalus,preysOn,Halipegus
+Cyzicus californicus,preysOn,Halipegus
+Chironomidae,preysOn,Halipegus
+Ceratopogonidae,preysOn,Halipegus
+Tramea,preysOn,Halipegus
+Coenagrion,preysOn,Halipegus
+Lestes,preysOn,Halipegus
+Anax junius,preysOn,Halipegus
+Taricha torosa,preysOn,Halipegus
+zooplankton,interactsWith,Halipegus
+meiofauna,interactsWith,Halipegus
+Erpobdella,interactsWith,Halipegus
+Macrocyclops,interactsWith,Halipegus
+Diaptomidae,interactsWith,Halipegus
+Simocephalus,interactsWith,Halipegus
+Cyzicus californicus,interactsWith,Halipegus
+Hydrophilus,interactsWith,Halipegus
+Hydrophilus,interactsWith,Halipegus
+Tropisternus,interactsWith,Halipegus
+Tropisternus,interactsWith,Halipegus
+Notonecta,interactsWith,Halipegus
+Notonecta,interactsWith,Halipegus
+Hesperocorixa,interactsWith,Halipegus
+Hesperocorixa,interactsWith,Halipegus
+Letherocerus americanus,interactsWith,Halipegus
+Letherocerus americanus,interactsWith,Halipegus
+Belostoma,interactsWith,Halipegus
+Belostoma,interactsWith,Halipegus
+Tramea,interactsWith,Halipegus
+Tramea,interactsWith,Halipegus
+Coenagrion,interactsWith,Halipegus
+Coenagrion,interactsWith,Halipegus
+Lestes,interactsWith,Halipegus
+Lestes,interactsWith,Halipegus
+Anax junius,interactsWith,Halipegus
+Anax junius,interactsWith,Halipegus
+Taricha torosa,interactsWith,Halipegus
+Taricha torosa,interactsWith,Halipegus
+Anaxyrus boreas,interactsWith,Halipegus
+Pseudiacris regilla,interactsWith,Halipegus
+Rana draytonii,interactsWith,Halipegus
+Tachycineta bicolor,interactsWith,Halipegus
+Hirundo rustica,interactsWith,Halipegus
+Agelaius phoeniceus,interactsWith,Halipegus
+Fulica americana,interactsWith,Halipegus
+Buteo jamaicensis,interactsWith,Halipegus
+Ardea herodias,interactsWith,Halipegus
+Hydrophilus,interactsWith,Alaria
+Hydrophilus,interactsWith,Alaria
+Tropisternus,interactsWith,Alaria
+Letherocerus americanus,interactsWith,Alaria
+Letherocerus americanus,interactsWith,Alaria
+Belostoma,interactsWith,Alaria
+Belostoma,interactsWith,Alaria
+Tramea,interactsWith,Alaria
+Anax junius,interactsWith,Alaria
+Taricha torosa,interactsWith,Alaria
+Taricha torosa,interactsWith,Alaria
+Anaxyrus boreas,interactsWith,Alaria
+Rana draytonii,interactsWith,Alaria
+Fulica americana,interactsWith,Alaria
+Ribeiroia ondatrae,parasiteOf,Alaria
+Megalodiscus,parasiteOf,Alaria
+Echinostoma trivolvis,parasiteOf,Alaria
+Halipegus,parasiteOf,Alaria
+Cephalogonimus americanus,parasiteOf,Alaria
+zooplankton,preysOn,Alaria
+meiofauna,preysOn,Alaria
+Chaetogaster,preysOn,Alaria
+Macrocyclops,preysOn,Alaria
+Diaptomidae,preysOn,Alaria
+Simocephalus,preysOn,Alaria
+Cyzicus californicus,preysOn,Alaria
+Chironomidae,preysOn,Alaria
+Ceratopogonidae,preysOn,Alaria
+Tramea,preysOn,Alaria
+Coenagrion,preysOn,Alaria
+Lestes,preysOn,Alaria
+Anax junius,preysOn,Alaria
+Taricha torosa,preysOn,Alaria
+Hydrophilus,interactsWith,Alaria
+Hydrophilus,interactsWith,Alaria
+Notonecta,interactsWith,Alaria
+Notonecta,interactsWith,Alaria
+Letherocerus americanus,interactsWith,Alaria
+Letherocerus americanus,interactsWith,Alaria
+Belostoma,interactsWith,Alaria
+Belostoma,interactsWith,Alaria
+Tramea,interactsWith,Alaria
+Anax junius,interactsWith,Alaria
+Taricha torosa,interactsWith,Alaria
+Taricha torosa,interactsWith,Alaria
+Anaxyrus boreas,interactsWith,Alaria
+Pseudiacris regilla,interactsWith,Alaria
+Rana draytonii,interactsWith,Alaria
+Thamnophis atratus,interactsWith,Alaria
+Fulica americana,interactsWith,Alaria
+Buteo jamaicensis,interactsWith,Alaria
+Ardea herodias,interactsWith,Alaria
+Spermophilus beecheyi,interactsWith,Alaria
+Canis latrans,interactsWith,Alaria
+Letherocerus americanus,interactsWith,Cephalogonimus americanus
+Letherocerus americanus,interactsWith,Cephalogonimus americanus
+Belostoma,interactsWith,Cephalogonimus americanus
+Belostoma,interactsWith,Cephalogonimus americanus
+Taricha torosa,interactsWith,Cephalogonimus americanus
+Taricha torosa,interactsWith,Cephalogonimus americanus
+Anaxyrus boreas,interactsWith,Cephalogonimus americanus
+Pseudiacris regilla,interactsWith,Cephalogonimus americanus
+Rana draytonii,interactsWith,Cephalogonimus americanus
+Thamnophis atratus,interactsWith,Cephalogonimus americanus
+Fulica americana,interactsWith,Cephalogonimus americanus
+Buteo jamaicensis,interactsWith,Cephalogonimus americanus
+Ardea herodias,interactsWith,Cephalogonimus americanus
+Spermophilus beecheyi,interactsWith,Cephalogonimus americanus
+Canis latrans,interactsWith,Cephalogonimus americanus
+Hydrophilus,interactsWith,Cephalogonimus americanus
+Hydrophilus,interactsWith,Cephalogonimus americanus
+Tropisternus,interactsWith,Cephalogonimus americanus
+Letherocerus americanus,interactsWith,Cephalogonimus americanus
+Letherocerus americanus,interactsWith,Cephalogonimus americanus
+Belostoma,interactsWith,Cephalogonimus americanus
+Belostoma,interactsWith,Cephalogonimus americanus
+Tramea,interactsWith,Cephalogonimus americanus
+Anax junius,interactsWith,Cephalogonimus americanus
+Taricha torosa,interactsWith,Cephalogonimus americanus
+Taricha torosa,interactsWith,Cephalogonimus americanus
+Anaxyrus boreas,interactsWith,Cephalogonimus americanus
+Rana draytonii,interactsWith,Cephalogonimus americanus
+Fulica americana,interactsWith,Cephalogonimus americanus
+Ribeiroia ondatrae,parasiteOf,Cephalogonimus americanus
+Megalodiscus,parasiteOf,Cephalogonimus americanus
+Echinostoma trivolvis,parasiteOf,Cephalogonimus americanus
+zooplankton,preysOn,Cephalogonimus americanus
+meiofauna,preysOn,Cephalogonimus americanus
+Chaetogaster,preysOn,Cephalogonimus americanus
+Macrocyclops,preysOn,Cephalogonimus americanus
+Diaptomidae,preysOn,Cephalogonimus americanus
+Simocephalus,preysOn,Cephalogonimus americanus
+Cyzicus californicus,preysOn,Cephalogonimus americanus
+Chironomidae,preysOn,Cephalogonimus americanus
+Ceratopogonidae,preysOn,Cephalogonimus americanus
+Tramea,preysOn,Cephalogonimus americanus
+Coenagrion,preysOn,Cephalogonimus americanus
+Lestes,preysOn,Cephalogonimus americanus
+Anax junius,preysOn,Cephalogonimus americanus
+Taricha torosa,preysOn,Cephalogonimus americanus
+Hydrophilus,interactsWith,Cephalogonimus americanus
+Hydrophilus,interactsWith,Cephalogonimus americanus
+Notonecta,interactsWith,Cephalogonimus americanus
+Notonecta,interactsWith,Cephalogonimus americanus
+Letherocerus americanus,interactsWith,Cephalogonimus americanus
+Letherocerus americanus,interactsWith,Cephalogonimus americanus
+Belostoma,interactsWith,Cephalogonimus americanus
+Belostoma,interactsWith,Cephalogonimus americanus
+Tramea,interactsWith,Cephalogonimus americanus
+Anax junius,interactsWith,Cephalogonimus americanus
+Taricha torosa,interactsWith,Cephalogonimus americanus
+Taricha torosa,interactsWith,Cephalogonimus americanus
+Anaxyrus boreas,interactsWith,Cephalogonimus americanus
+Pseudiacris regilla,interactsWith,Cephalogonimus americanus
+Rana draytonii,interactsWith,Cephalogonimus americanus
+Thamnophis atratus,interactsWith,Cephalogonimus americanus
+Fulica americana,interactsWith,Cephalogonimus americanus
+Buteo jamaicensis,interactsWith,Cephalogonimus americanus
+Ardea herodias,interactsWith,Cephalogonimus americanus
+Spermophilus beecheyi,interactsWith,Cephalogonimus americanus
+Buteo jamaicensis,interactsWith,Pseudocorynosoma constrictum
+Ardea herodias,interactsWith,Pseudocorynosoma constrictum
+Canis latrans,interactsWith,Pseudocorynosoma constrictum
+Erpobdella,interactsWith,Pseudocorynosoma constrictum
+Macrocyclops,interactsWith,Pseudocorynosoma constrictum
+Hydrophilus,interactsWith,Pseudocorynosoma constrictum
+Hydrophilus,interactsWith,Pseudocorynosoma constrictum
+Tropisternus,interactsWith,Pseudocorynosoma constrictum
+Notonecta,interactsWith,Pseudocorynosoma constrictum
+Notonecta,interactsWith,Pseudocorynosoma constrictum
+Hesperocorixa,interactsWith,Pseudocorynosoma constrictum
+Hesperocorixa,interactsWith,Pseudocorynosoma constrictum
+Letherocerus americanus,interactsWith,Pseudocorynosoma constrictum
+Letherocerus americanus,interactsWith,Pseudocorynosoma constrictum
+Belostoma,interactsWith,Pseudocorynosoma constrictum
+Belostoma,interactsWith,Pseudocorynosoma constrictum
+Tramea,interactsWith,Pseudocorynosoma constrictum
+Coenagrion,interactsWith,Pseudocorynosoma constrictum
+Lestes,interactsWith,Pseudocorynosoma constrictum
+Anax junius,interactsWith,Pseudocorynosoma constrictum
+Taricha torosa,interactsWith,Pseudocorynosoma constrictum
+Taricha torosa,interactsWith,Pseudocorynosoma constrictum
+Anaxyrus boreas,interactsWith,Pseudocorynosoma constrictum
+Rana draytonii,interactsWith,Pseudocorynosoma constrictum
+Fulica americana,interactsWith,Pseudocorynosoma constrictum
+Erpobdella,interactsWith,Pseudocorynosoma constrictum
+Macrocyclops,interactsWith,Pseudocorynosoma constrictum
+Hydrophilus,interactsWith,Pseudocorynosoma constrictum
+Hydrophilus,interactsWith,Pseudocorynosoma constrictum
+Tropisternus,interactsWith,Pseudocorynosoma constrictum
+Notonecta,interactsWith,Pseudocorynosoma constrictum
+Notonecta,interactsWith,Pseudocorynosoma constrictum
+Hesperocorixa,interactsWith,Pseudocorynosoma constrictum
+Hesperocorixa,interactsWith,Pseudocorynosoma constrictum
+Letherocerus americanus,interactsWith,Pseudocorynosoma constrictum
+Letherocerus americanus,interactsWith,Pseudocorynosoma constrictum
+Belostoma,interactsWith,Pseudocorynosoma constrictum
+Belostoma,interactsWith,Pseudocorynosoma constrictum
+Tramea,interactsWith,Pseudocorynosoma constrictum
+Coenagrion,interactsWith,Pseudocorynosoma constrictum
+Lestes,interactsWith,Pseudocorynosoma constrictum
+Anax junius,interactsWith,Pseudocorynosoma constrictum
+Taricha torosa,interactsWith,Pseudocorynosoma constrictum
+Taricha torosa,interactsWith,Pseudocorynosoma constrictum
+Anaxyrus boreas,interactsWith,Pseudocorynosoma constrictum
+Rana draytonii,interactsWith,Pseudocorynosoma constrictum
+Fulica americana,interactsWith,Pseudocorynosoma constrictum

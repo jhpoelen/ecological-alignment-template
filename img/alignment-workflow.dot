@@ -1,0 +1,28 @@
+digraph pairwise {
+    bgcolor="transparent";
+    a1 [label="Interaction Dataset(s)\ne.g., foodweb\nPreston et al. 2012", shape="box"];
+    b1 [label="Taxonomic Resource(s)\ne.g., name database\nNCBI Taxonomy", shape="box"];
+    c1 [label="align"];
+    d1 [label="Taxonomic Range\ne.g., field inventory", shape="box"];
+    e1 [label="filter"];
+    f1 [label="Geographic Range\ne.g., Illinois, Wisconsin", shape="box"];
+    g1 [label="filter"];
+    h1 [label="Taxonomic Resolution\ne.g., use only parasite genus names", shape="box"];
+    i1 [label="adjust"];
+    j1 [label="Ecological Network\nData Package", shape="box"];
+    
+    a1 -> c1;
+    b1 -> c1;
+
+    c1 -> e1;
+    d1 -> e1;
+    
+    e1 -> g1;
+    f1 -> g1;
+   
+    g1 -> i1;
+    h1 -> i1;
+ 
+    i1 -> j1 [label="produces"];
+}
+
